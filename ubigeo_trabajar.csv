@@ -1,0 +1,1893 @@
+Codigo_dpto,dpto,Codigo_prov,Prov,Codigo_dist,dist
+01, Amazonas,01, Chachapoyas,01, Chachapoyas
+01, Amazonas,01, Chachapoyas,02, Asunción
+01, Amazonas,01, Chachapoyas,03, Balsas
+01, Amazonas,01, Chachapoyas,04, Cheto
+01, Amazonas,01, Chachapoyas,05, Chiliquin
+01, Amazonas,01, Chachapoyas,06, Chuquibamba
+01, Amazonas,01, Chachapoyas,07, Granada
+01, Amazonas,01, Chachapoyas,08, Huancas
+01, Amazonas,01, Chachapoyas,09, La Jalca
+01, Amazonas,01, Chachapoyas,10, Leimebamba
+01, Amazonas,01, Chachapoyas,11, Levanto
+01, Amazonas,01, Chachapoyas,12, Magdalena
+01, Amazonas,01, Chachapoyas,13, Mariscal Castilla
+01, Amazonas,01, Chachapoyas,14, Molinopampa
+01, Amazonas,01, Chachapoyas,15, Montevideo
+01, Amazonas,01, Chachapoyas,16, Olleros
+01, Amazonas,01, Chachapoyas,17, Quinjalca
+01, Amazonas,01, Chachapoyas,18, San Francisco de Daguas
+01, Amazonas,01, Chachapoyas,19, San Isidro de Maino
+01, Amazonas,01, Chachapoyas,20, Soloco
+01, Amazonas,01, Chachapoyas,21, Sonche
+01, Amazonas,02, Bagua,01, Bagua
+01, Amazonas,02, Bagua,02, Aramango
+01, Amazonas,02, Bagua,03, Copallin
+01, Amazonas,02, Bagua,04, El Parco
+01, Amazonas,02, Bagua,05, Imaza
+01, Amazonas,02, Bagua,06, La Peca
+01, Amazonas,03, Bongará,01, Jumbilla
+01, Amazonas,03, Bongará,02, Chisquilla
+01, Amazonas,03, Bongará,03, Churuja
+01, Amazonas,03, Bongará,04, Corosha
+01, Amazonas,03, Bongará,05, Cuispes
+01, Amazonas,03, Bongará,06, Florida
+01, Amazonas,03, Bongará,07, Jazan
+01, Amazonas,03, Bongará,08, Recta
+01, Amazonas,03, Bongará,09, San Carlos
+01, Amazonas,03, Bongará,10, Shipasbamba
+01, Amazonas,03, Bongará,11, Valera
+01, Amazonas,03, Bongará,12, Yambrasbamba
+01, Amazonas,04, Condorcanqui,01, Nieva
+01, Amazonas,04, Condorcanqui,02, El Cenepa
+01, Amazonas,04, Condorcanqui,03, Río Santiago
+01, Amazonas,05, Luya,01, Lamud
+01, Amazonas,05, Luya,02, Camporredondo
+01, Amazonas,05, Luya,03, Cocabamba
+01, Amazonas,05, Luya,04, Colcamar
+01, Amazonas,05, Luya,05, Conila
+01, Amazonas,05, Luya,06, Inguilpata
+01, Amazonas,05, Luya,07, Longuita
+01, Amazonas,05, Luya,08, Lonya Chico
+01, Amazonas,05, Luya,09, Luya
+01, Amazonas,05, Luya,10, Luya Viejo
+01, Amazonas,05, Luya,11, María
+01, Amazonas,05, Luya,12, Ocalli
+01, Amazonas,05, Luya,13, Ocumal
+01, Amazonas,05, Luya,14, Pisuquia
+01, Amazonas,05, Luya,15, Providencia
+01, Amazonas,05, Luya,16, San Cristóbal
+01, Amazonas,05, Luya,17, San Francisco de Yeso
+01, Amazonas,05, Luya,18, San Jerónimo
+01, Amazonas,05, Luya,19, San Juan de Lopecancha
+01, Amazonas,05, Luya,20, Santa Catalina
+01, Amazonas,05, Luya,21, Santo Tomas
+01, Amazonas,05, Luya,22, Tingo
+01, Amazonas,05, Luya,23, Trita
+01, Amazonas,06, Rodríguez de Mendoza,01, San Nicolás
+01, Amazonas,06, Rodríguez de Mendoza,02, Chirimoto
+01, Amazonas,06, Rodríguez de Mendoza,03, Cochamal
+01, Amazonas,06, Rodríguez de Mendoza,04, Huambo
+01, Amazonas,06, Rodríguez de Mendoza,05, Limabamba
+01, Amazonas,06, Rodríguez de Mendoza,06, Longar
+01, Amazonas,06, Rodríguez de Mendoza,07, Mariscal Benavides
+01, Amazonas,06, Rodríguez de Mendoza,08, Milpuc
+01, Amazonas,06, Rodríguez de Mendoza,09, Omia
+01, Amazonas,06, Rodríguez de Mendoza,10, Santa Rosa
+01, Amazonas,06, Rodríguez de Mendoza,11, Totora
+01, Amazonas,06, Rodríguez de Mendoza,12, Vista Alegre
+01, Amazonas,07, Utcubamba,01, Bagua Grande
+01, Amazonas,07, Utcubamba,02, Cajaruro
+01, Amazonas,07, Utcubamba,03, Cumba
+01, Amazonas,07, Utcubamba,04, El Milagro
+01, Amazonas,07, Utcubamba,05, Jamalca
+01, Amazonas,07, Utcubamba,06, Lonya Grande
+01, Amazonas,07, Utcubamba,07, Yamon
+02, Áncash,01, Huaraz,01, Huaraz
+02, Áncash,01, Huaraz,02, Cochabamba
+02, Áncash,01, Huaraz,03, Colcabamba
+02, Áncash,01, Huaraz,04, Huanchay
+02, Áncash,01, Huaraz,05, Independencia
+02, Áncash,01, Huaraz,06, Jangas
+02, Áncash,01, Huaraz,07, La Libertad
+02, Áncash,01, Huaraz,08, Olleros
+02, Áncash,01, Huaraz,09, Pampas Grande
+02, Áncash,01, Huaraz,10, Pariacoto
+02, Áncash,01, Huaraz,11, Pira
+02, Áncash,01, Huaraz,12, Tarica
+02, Áncash,02, Aija,01, Aija
+02, Áncash,02, Aija,02, Coris
+02, Áncash,02, Aija,03, Huacllan
+02, Áncash,02, Aija,04, La Merced
+02, Áncash,02, Aija,05, Succha
+02, Áncash,03, Antonio Raymondi,01, Llamellin
+02, Áncash,03, Antonio Raymondi,02, Aczo
+02, Áncash,03, Antonio Raymondi,03, Chaccho
+02, Áncash,03, Antonio Raymondi,04, Chingas
+02, Áncash,03, Antonio Raymondi,05, Mirgas
+02, Áncash,03, Antonio Raymondi,06, San Juan de Rontoy
+02, Áncash,04, Asunción,01, Chacas
+02, Áncash,04, Asunción,02, Acochaca
+02, Áncash,05, Bolognesi,01, Chiquian
+02, Áncash,05, Bolognesi,02, Abelardo Pardo Lezameta
+02, Áncash,05, Bolognesi,03, Antonio Raymondi
+02, Áncash,05, Bolognesi,04, Aquia
+02, Áncash,05, Bolognesi,05, Cajacay
+02, Áncash,05, Bolognesi,06, Canis
+02, Áncash,05, Bolognesi,07, Colquioc
+02, Áncash,05, Bolognesi,08, Huallanca
+02, Áncash,05, Bolognesi,09, Huasta
+02, Áncash,05, Bolognesi,10, Huayllacayan
+02, Áncash,05, Bolognesi,11, La Primavera
+02, Áncash,05, Bolognesi,12, Mangas
+02, Áncash,05, Bolognesi,13, Pacllon
+02, Áncash,05, Bolognesi,14, San Miguel de Corpanqui
+02, Áncash,05, Bolognesi,15, Ticllos
+02, Áncash,06, Carhuaz,01, Carhuaz
+02, Áncash,06, Carhuaz,02, Acopampa
+02, Áncash,06, Carhuaz,03, Amashca
+02, Áncash,06, Carhuaz,04, Anta
+02, Áncash,06, Carhuaz,05, Ataquero
+02, Áncash,06, Carhuaz,06, Marcara
+02, Áncash,06, Carhuaz,07, Pariahuanca
+02, Áncash,06, Carhuaz,08, San Miguel de Aco
+02, Áncash,06, Carhuaz,09, Shilla
+02, Áncash,06, Carhuaz,10, Tinco
+02, Áncash,06, Carhuaz,11, Yungar
+02, Áncash,07, Carlos Fermín Fitzcarrald,01, San Luis
+02, Áncash,07, Carlos Fermín Fitzcarrald,02, San Nicolás
+02, Áncash,07, Carlos Fermín Fitzcarrald,03, Yauya
+02, Áncash,08, Casma,01, Casma
+02, Áncash,08, Casma,02, Buena Vista Alta
+02, Áncash,08, Casma,03, Comandante Noel
+02, Áncash,08, Casma,04, Yautan
+02, Áncash,09, Corongo,01, Corongo
+02, Áncash,09, Corongo,02, Aco
+02, Áncash,09, Corongo,03, Bambas
+02, Áncash,09, Corongo,04, Cusca
+02, Áncash,09, Corongo,05, La Pampa
+02, Áncash,09, Corongo,06, Yanac
+02, Áncash,09, Corongo,07, Yupan
+02, Áncash,10, Huari,01, Huari
+02, Áncash,10, Huari,02, Anra
+02, Áncash,10, Huari,03, Cajay
+02, Áncash,10, Huari,04, Chavin de Huantar
+02, Áncash,10, Huari,05, Huacachi
+02, Áncash,10, Huari,06, Huacchis
+02, Áncash,10, Huari,07, Huachis
+02, Áncash,10, Huari,08, Huantar
+02, Áncash,10, Huari,09, Masin
+02, Áncash,10, Huari,10, Paucas
+02, Áncash,10, Huari,11, Ponto
+02, Áncash,10, Huari,12, Rahuapampa
+02, Áncash,10, Huari,13, Rapayan
+02, Áncash,10, Huari,14, San Marcos
+02, Áncash,10, Huari,15, San Pedro de Chana
+02, Áncash,10, Huari,16, Uco
+02, Áncash,11, Huarmey,01, Huarmey
+02, Áncash,11, Huarmey,02, Cochapeti
+02, Áncash,11, Huarmey,03, Culebras
+02, Áncash,11, Huarmey,04, Huayan
+02, Áncash,11, Huarmey,05, Malvas
+02, Áncash,12, Huaylas,01, Caraz
+02, Áncash,12, Huaylas,02, Huallanca
+02, Áncash,12, Huaylas,03, Huata
+02, Áncash,12, Huaylas,04, Huaylas
+02, Áncash,12, Huaylas,05, Mato
+02, Áncash,12, Huaylas,06, Pamparomas
+02, Áncash,12, Huaylas,07, Pueblo Libre
+02, Áncash,12, Huaylas,08, Santa Cruz
+02, Áncash,12, Huaylas,09, Santo Toribio
+02, Áncash,12, Huaylas,10, Yuracmarca
+02, Áncash,13, Mariscal Luzuriaga,01, Piscobamba
+02, Áncash,13, Mariscal Luzuriaga,02, Casca
+02, Áncash,13, Mariscal Luzuriaga,03, Eleazar Guzmán Barron
+02, Áncash,13, Mariscal Luzuriaga,04, Fidel Olivas Escudero
+02, Áncash,13, Mariscal Luzuriaga,05, Llama
+02, Áncash,13, Mariscal Luzuriaga,06, Llumpa
+02, Áncash,13, Mariscal Luzuriaga,07, Lucma
+02, Áncash,13, Mariscal Luzuriaga,08, Musga
+02, Áncash,14, Ocros,01, Ocros
+02, Áncash,14, Ocros,02, Acas
+02, Áncash,14, Ocros,03, Cajamarquilla
+02, Áncash,14, Ocros,04, Carhuapampa
+02, Áncash,14, Ocros,05, Cochas
+02, Áncash,14, Ocros,06, Congas
+02, Áncash,14, Ocros,07, Llipa
+02, Áncash,14, Ocros,08, San Cristóbal de Rajan
+02, Áncash,14, Ocros,09, San Pedro
+02, Áncash,14, Ocros,10, Santiago de Chilcas
+02, Áncash,15, Pallasca,01, Cabana
+02, Áncash,15, Pallasca,02, Bolognesi
+02, Áncash,15, Pallasca,03, Conchucos
+02, Áncash,15, Pallasca,04, Huacaschuque
+02, Áncash,15, Pallasca,05, Huandoval
+02, Áncash,15, Pallasca,06, Lacabamba
+02, Áncash,15, Pallasca,07, Llapo
+02, Áncash,15, Pallasca,08, Pallasca
+02, Áncash,15, Pallasca,09, Pampas
+02, Áncash,15, Pallasca,10, Santa Rosa
+02, Áncash,15, Pallasca,11, Tauca
+02, Áncash,16, Pomabamba,01, Pomabamba
+02, Áncash,16, Pomabamba,02, Huayllan
+02, Áncash,16, Pomabamba,03, Parobamba
+02, Áncash,16, Pomabamba,04, Quinuabamba
+02, Áncash,17, Recuay,01, Recuay
+02, Áncash,17, Recuay,02, Catac
+02, Áncash,17, Recuay,03, Cotaparaco
+02, Áncash,17, Recuay,04, Huayllapampa
+02, Áncash,17, Recuay,05, Llacllin
+02, Áncash,17, Recuay,06, Marca
+02, Áncash,17, Recuay,07, Pampas Chico
+02, Áncash,17, Recuay,08, Pararin
+02, Áncash,17, Recuay,09, Tapacocha
+02, Áncash,17, Recuay,10, Ticapampa
+02, Áncash,18, Santa,01, Chimbote
+02, Áncash,18, Santa,02, Cáceres del Perú
+02, Áncash,18, Santa,03, Coishco
+02, Áncash,18, Santa,04, Macate
+02, Áncash,18, Santa,05, Moro
+02, Áncash,18, Santa,06, Nepeña
+02, Áncash,18, Santa,07, Samanco
+02, Áncash,18, Santa,08, Santa
+02, Áncash,18, Santa,09, Nuevo Chimbote
+02, Áncash,19, Sihuas,01, Sihuas
+02, Áncash,19, Sihuas,02, Acobamba
+02, Áncash,19, Sihuas,03, Alfonso Ugarte
+02, Áncash,19, Sihuas,04, Cashapampa
+02, Áncash,19, Sihuas,05, Chingalpo
+02, Áncash,19, Sihuas,06, Huayllabamba
+02, Áncash,19, Sihuas,07, Quiches
+02, Áncash,19, Sihuas,08, Ragash
+02, Áncash,19, Sihuas,09, San Juan
+02, Áncash,19, Sihuas,10, Sicsibamba
+02, Áncash,20, Yungay,01, Yungay
+02, Áncash,20, Yungay,02, Cascapara
+02, Áncash,20, Yungay,03, Mancos
+02, Áncash,20, Yungay,04, Matacoto
+02, Áncash,20, Yungay,05, Quillo
+02, Áncash,20, Yungay,06, Ranrahirca
+02, Áncash,20, Yungay,07, Shupluy
+02, Áncash,20, Yungay,08, Yanama
+03, Apurímac,01, Abancay,01, Abancay
+03, Apurímac,01, Abancay,02, Chacoche
+03, Apurímac,01, Abancay,03, Circa
+03, Apurímac,01, Abancay,04, Curahuasi
+03, Apurímac,01, Abancay,05, Huanipaca
+03, Apurímac,01, Abancay,06, Lambrama
+03, Apurímac,01, Abancay,07, Pichirhua
+03, Apurímac,01, Abancay,08, San Pedro de Cachora
+03, Apurímac,01, Abancay,09, Tamburco
+03, Apurímac,02, Andahuaylas,01, Andahuaylas
+03, Apurímac,02, Andahuaylas,02, Andarapa
+03, Apurímac,02, Andahuaylas,03, Chiara
+03, Apurímac,02, Andahuaylas,04, Huancarama
+03, Apurímac,02, Andahuaylas,05, Huancaray
+03, Apurímac,02, Andahuaylas,06, Huayana
+03, Apurímac,02, Andahuaylas,07, Kishuara
+03, Apurímac,02, Andahuaylas,08, Pacobamba
+03, Apurímac,02, Andahuaylas,09, Pacucha
+03, Apurímac,02, Andahuaylas,10, Pampachiri
+03, Apurímac,02, Andahuaylas,11, Pomacocha
+03, Apurímac,02, Andahuaylas,12, San Antonio de Cachi
+03, Apurímac,02, Andahuaylas,13, San Jerónimo
+03, Apurímac,02, Andahuaylas,14, San Miguel de Chaccrampa
+03, Apurímac,02, Andahuaylas,15, Santa María de Chicmo
+03, Apurímac,02, Andahuaylas,16, Talavera
+03, Apurímac,02, Andahuaylas,17, Tumay Huaraca
+03, Apurímac,02, Andahuaylas,18, Turpo
+03, Apurímac,02, Andahuaylas,19, Kaquiabamba
+03, Apurímac,02, Andahuaylas,20, José María Arguedas
+03, Apurímac,03, Antabamba,01, Antabamba
+03, Apurímac,03, Antabamba,02, El Oro
+03, Apurímac,03, Antabamba,03, Huaquirca
+03, Apurímac,03, Antabamba,04, Juan Espinoza Medrano
+03, Apurímac,03, Antabamba,05, Oropesa
+03, Apurímac,03, Antabamba,06, Pachaconas
+03, Apurímac,03, Antabamba,07, Sabaino
+03, Apurímac,04, Aymaraes,01, Chalhuanca
+03, Apurímac,04, Aymaraes,02, Capaya
+03, Apurímac,04, Aymaraes,03, Caraybamba
+03, Apurímac,04, Aymaraes,04, Chapimarca
+03, Apurímac,04, Aymaraes,05, Colcabamba
+03, Apurímac,04, Aymaraes,06, Cotaruse
+03, Apurímac,04, Aymaraes,07, Ihuayllo
+03, Apurímac,04, Aymaraes,08, Justo Apu Sahuaraura
+03, Apurímac,04, Aymaraes,09, Lucre
+03, Apurímac,04, Aymaraes,10, Pocohuanca
+03, Apurímac,04, Aymaraes,11, San Juan de Chacña
+03, Apurímac,04, Aymaraes,12, Sañayca
+03, Apurímac,04, Aymaraes,13, Soraya
+03, Apurímac,04, Aymaraes,14, Tapairihua
+03, Apurímac,04, Aymaraes,15, Tintay
+03, Apurímac,04, Aymaraes,16, Toraya
+03, Apurímac,04, Aymaraes,17, Yanaca
+03, Apurímac,05, Cotabambas,01, Tambobamba
+03, Apurímac,05, Cotabambas,02, Cotabambas
+03, Apurímac,05, Cotabambas,03, Coyllurqui
+03, Apurímac,05, Cotabambas,04, Haquira
+03, Apurímac,05, Cotabambas,05, Mara
+03, Apurímac,05, Cotabambas,06, Challhuahuacho
+03, Apurímac,06, Chincheros,01, Chincheros
+03, Apurímac,06, Chincheros,02, Anco_Huallo
+03, Apurímac,06, Chincheros,03, Cocharcas
+03, Apurímac,06, Chincheros,04, Huaccana
+03, Apurímac,06, Chincheros,05, Ocobamba
+03, Apurímac,06, Chincheros,06, Ongoy
+03, Apurímac,06, Chincheros,07, Uranmarca
+03, Apurímac,06, Chincheros,08, Ranracancha
+03, Apurímac,06, Chincheros,09, Rocchacc
+03, Apurímac,06, Chincheros,10, El Porvenir
+03, Apurímac,06, Chincheros,11, Los Chankas
+03, Apurímac,06, Chincheros,12, Ahuayro
+03, Apurímac,07, Grau,01, Chuquibambilla
+03, Apurímac,07, Grau,02, Curpahuasi
+03, Apurímac,07, Grau,03, Gamarra
+03, Apurímac,07, Grau,04, Huayllati
+03, Apurímac,07, Grau,05, Mamara
+03, Apurímac,07, Grau,06, Micaela Bastidas
+03, Apurímac,07, Grau,07, Pataypampa
+03, Apurímac,07, Grau,08, Progreso
+03, Apurímac,07, Grau,09, San Antonio
+03, Apurímac,07, Grau,10, Santa Rosa
+03, Apurímac,07, Grau,11, Turpay
+03, Apurímac,07, Grau,12, Vilcabamba
+03, Apurímac,07, Grau,13, Virundo
+03, Apurímac,07, Grau,14, Curasco
+04, Arequipa,01, Arequipa,01, Arequipa
+04, Arequipa,01, Arequipa,02, Alto Selva Alegre
+04, Arequipa,01, Arequipa,03, Cayma
+04, Arequipa,01, Arequipa,04, Cerro Colorado
+04, Arequipa,01, Arequipa,05, Characato
+04, Arequipa,01, Arequipa,06, Chiguata
+04, Arequipa,01, Arequipa,07, Jacobo Hunter
+04, Arequipa,01, Arequipa,08, La Joya
+04, Arequipa,01, Arequipa,09, Mariano Melgar
+04, Arequipa,01, Arequipa,10, Miraflores
+04, Arequipa,01, Arequipa,11, Mollebaya
+04, Arequipa,01, Arequipa,12, Paucarpata
+04, Arequipa,01, Arequipa,13, Pocsi
+04, Arequipa,01, Arequipa,14, Polobaya
+04, Arequipa,01, Arequipa,15, Quequeña
+04, Arequipa,01, Arequipa,16, Sabandia
+04, Arequipa,01, Arequipa,17, Sachaca
+04, Arequipa,01, Arequipa,18, San Juan de Siguas
+04, Arequipa,01, Arequipa,19, San Juan de Tarucani
+04, Arequipa,01, Arequipa,20, Santa Isabel de Siguas
+04, Arequipa,01, Arequipa,21, Santa Rita de Siguas
+04, Arequipa,01, Arequipa,22, Socabaya
+04, Arequipa,01, Arequipa,23, Tiabaya
+04, Arequipa,01, Arequipa,24, Uchumayo
+04, Arequipa,01, Arequipa,25, Vitor
+04, Arequipa,01, Arequipa,26, Yanahuara
+04, Arequipa,01, Arequipa,27, Yarabamba
+04, Arequipa,01, Arequipa,28, Yura
+04, Arequipa,01, Arequipa,29, José Luis Bustamante Y Rivero
+04, Arequipa,02, Camaná,01, Camaná
+04, Arequipa,02, Camaná,02, José María Quimper
+04, Arequipa,02, Camaná,03, Mariano Nicolás Valcárcel
+04, Arequipa,02, Camaná,04, Mariscal Cáceres
+04, Arequipa,02, Camaná,05, Nicolás de Pierola
+04, Arequipa,02, Camaná,06, Ocoña
+04, Arequipa,02, Camaná,07, Quilca
+04, Arequipa,02, Camaná,08, Samuel Pastor
+04, Arequipa,03, Caravelí,01, Caravelí
+04, Arequipa,03, Caravelí,02, Acarí
+04, Arequipa,03, Caravelí,03, Atico
+04, Arequipa,03, Caravelí,04, Atiquipa
+04, Arequipa,03, Caravelí,05, Bella Unión
+04, Arequipa,03, Caravelí,06, Cahuacho
+04, Arequipa,03, Caravelí,07, Chala
+04, Arequipa,03, Caravelí,08, Chaparra
+04, Arequipa,03, Caravelí,09, Huanuhuanu
+04, Arequipa,03, Caravelí,10, Jaqui
+04, Arequipa,03, Caravelí,11, Lomas
+04, Arequipa,03, Caravelí,12, Quicacha
+04, Arequipa,03, Caravelí,13, Yauca
+04, Arequipa,04, Castilla,01, Aplao
+04, Arequipa,04, Castilla,02, Andagua
+04, Arequipa,04, Castilla,03, Ayo
+04, Arequipa,04, Castilla,04, Chachas
+04, Arequipa,04, Castilla,05, Chilcaymarca
+04, Arequipa,04, Castilla,06, Choco
+04, Arequipa,04, Castilla,07, Huancarqui
+04, Arequipa,04, Castilla,08, Machaguay
+04, Arequipa,04, Castilla,09, Orcopampa
+04, Arequipa,04, Castilla,10, Pampacolca
+04, Arequipa,04, Castilla,11, Tipan
+04, Arequipa,04, Castilla,12, Uñon
+04, Arequipa,04, Castilla,13, Uraca
+04, Arequipa,04, Castilla,14, Viraco
+04, Arequipa,05, Caylloma,01, Chivay
+04, Arequipa,05, Caylloma,02, Achoma
+04, Arequipa,05, Caylloma,03, Cabanaconde
+04, Arequipa,05, Caylloma,04, Callalli
+04, Arequipa,05, Caylloma,05, Caylloma
+04, Arequipa,05, Caylloma,06, Coporaque
+04, Arequipa,05, Caylloma,07, Huambo
+04, Arequipa,05, Caylloma,08, Huanca
+04, Arequipa,05, Caylloma,09, Ichupampa
+04, Arequipa,05, Caylloma,10, Lari
+04, Arequipa,05, Caylloma,11, Lluta
+04, Arequipa,05, Caylloma,12, Maca
+04, Arequipa,05, Caylloma,13, Madrigal
+04, Arequipa,05, Caylloma,14, San Antonio de Chuca
+04, Arequipa,05, Caylloma,15, Sibayo
+04, Arequipa,05, Caylloma,16, Tapay
+04, Arequipa,05, Caylloma,17, Tisco
+04, Arequipa,05, Caylloma,18, Tuti
+04, Arequipa,05, Caylloma,19, Yanque
+04, Arequipa,05, Caylloma,20, Majes
+04, Arequipa,06, Condesuyos,01, Chuquibamba
+04, Arequipa,06, Condesuyos,02, Andaray
+04, Arequipa,06, Condesuyos,03, Cayarani
+04, Arequipa,06, Condesuyos,04, Chichas
+04, Arequipa,06, Condesuyos,05, Iray
+04, Arequipa,06, Condesuyos,06, Río Grande
+04, Arequipa,06, Condesuyos,07, Salamanca
+04, Arequipa,06, Condesuyos,08, Yanaquihua
+04, Arequipa,07, Islay,01, Mollendo
+04, Arequipa,07, Islay,02, Cocachacra
+04, Arequipa,07, Islay,03, Dean Valdivia
+04, Arequipa,07, Islay,04, Islay
+04, Arequipa,07, Islay,05, Mejia
+04, Arequipa,07, Islay,06, Punta de Bombón
+04, Arequipa,08, La Uniòn,01, Cotahuasi
+04, Arequipa,08, La Uniòn,02, Alca
+04, Arequipa,08, La Uniòn,03, Charcana
+04, Arequipa,08, La Uniòn,04, Huaynacotas
+04, Arequipa,08, La Uniòn,05, Pampamarca
+04, Arequipa,08, La Uniòn,06, Puyca
+04, Arequipa,08, La Uniòn,07, Quechualla
+04, Arequipa,08, La Uniòn,08, Sayla
+04, Arequipa,08, La Uniòn,09, Tauria
+04, Arequipa,08, La Uniòn,10, Tomepampa
+04, Arequipa,08, La Uniòn,11, Toro
+05, Ayacucho,01, Huamanga,01, Ayacucho
+05, Ayacucho,01, Huamanga,02, Acocro
+05, Ayacucho,01, Huamanga,03, Acos Vinchos
+05, Ayacucho,01, Huamanga,04, Carmen Alto
+05, Ayacucho,01, Huamanga,05, Chiara
+05, Ayacucho,01, Huamanga,06, Ocros
+05, Ayacucho,01, Huamanga,07, Pacaycasa
+05, Ayacucho,01, Huamanga,08, Quinua
+05, Ayacucho,01, Huamanga,09, San José de Ticllas
+05, Ayacucho,01, Huamanga,10, San Juan Bautista
+05, Ayacucho,01, Huamanga,11, Santiago de Pischa
+05, Ayacucho,01, Huamanga,12, Socos
+05, Ayacucho,01, Huamanga,13, Tambillo
+05, Ayacucho,01, Huamanga,14, Vinchos
+05, Ayacucho,01, Huamanga,15, Jesús Nazareno
+05, Ayacucho,01, Huamanga,16, Andrés Avelino Cáceres Dorregaray
+05, Ayacucho,02, Cangallo,01, Cangallo
+05, Ayacucho,02, Cangallo,02, Chuschi
+05, Ayacucho,02, Cangallo,03, Los Morochucos
+05, Ayacucho,02, Cangallo,04, María Parado de Bellido
+05, Ayacucho,02, Cangallo,05, Paras
+05, Ayacucho,02, Cangallo,06, Totos
+05, Ayacucho,03, Huanca Sancos,01, Sancos
+05, Ayacucho,03, Huanca Sancos,02, Carapo
+05, Ayacucho,03, Huanca Sancos,03, Sacsamarca
+05, Ayacucho,03, Huanca Sancos,04, Santiago de Lucanamarca
+05, Ayacucho,04, Huanta,01, Huanta
+05, Ayacucho,04, Huanta,02, Ayahuanco
+05, Ayacucho,04, Huanta,03, Huamanguilla
+05, Ayacucho,04, Huanta,04, Iguain
+05, Ayacucho,04, Huanta,05, Luricocha
+05, Ayacucho,04, Huanta,06, Santillana
+05, Ayacucho,04, Huanta,07, Sivia
+05, Ayacucho,04, Huanta,08, Llochegua
+05, Ayacucho,04, Huanta,09, Canayre
+05, Ayacucho,04, Huanta,10, Uchuraccay
+05, Ayacucho,04, Huanta,11, Pucacolpa
+05, Ayacucho,04, Huanta,12, Chaca
+05, Ayacucho,04, Huanta,13, Putis
+05, Ayacucho,05, La Mar,01, San Miguel
+05, Ayacucho,05, La Mar,02, Anco
+05, Ayacucho,05, La Mar,03, Ayna
+05, Ayacucho,05, La Mar,04, Chilcas
+05, Ayacucho,05, La Mar,05, Chungui
+05, Ayacucho,05, La Mar,06, Luis Carranza
+05, Ayacucho,05, La Mar,07, Santa Rosa
+05, Ayacucho,05, La Mar,08, Tambo
+05, Ayacucho,05, La Mar,09, Samugari
+05, Ayacucho,05, La Mar,10, Anchihuay
+05, Ayacucho,05, La Mar,11, Oronccoy
+05, Ayacucho,05, La Mar,12, Unión Progreso
+05, Ayacucho,05, La Mar,13, Rio Magdalena
+05, Ayacucho,05, La Mar,14, Ninabamba
+05, Ayacucho,05, La Mar,15, Patibamba
+05, Ayacucho,06, Lucanas,01, Puquio
+05, Ayacucho,06, Lucanas,02, Aucara
+05, Ayacucho,06, Lucanas,03, Cabana
+05, Ayacucho,06, Lucanas,04, Carmen Salcedo
+05, Ayacucho,06, Lucanas,05, Chaviña
+05, Ayacucho,06, Lucanas,06, Chipao
+05, Ayacucho,06, Lucanas,07, Huac-Huas
+05, Ayacucho,06, Lucanas,08, Laramate
+05, Ayacucho,06, Lucanas,09, Leoncio Prado
+05, Ayacucho,06, Lucanas,10, Llauta
+05, Ayacucho,06, Lucanas,11, Lucanas
+05, Ayacucho,06, Lucanas,12, Ocaña
+05, Ayacucho,06, Lucanas,13, Otoca
+05, Ayacucho,06, Lucanas,14, Saisa
+05, Ayacucho,06, Lucanas,15, San Cristóbal
+05, Ayacucho,06, Lucanas,16, San Juan
+05, Ayacucho,06, Lucanas,17, San Pedro
+05, Ayacucho,06, Lucanas,18, San Pedro de Palco
+05, Ayacucho,06, Lucanas,19, Sancos
+05, Ayacucho,06, Lucanas,20, Santa Ana de Huaycahuacho
+05, Ayacucho,06, Lucanas,21, Santa Lucia
+05, Ayacucho,07, Parinacochas,01, Coracora
+05, Ayacucho,07, Parinacochas,02, Chumpi
+05, Ayacucho,07, Parinacochas,03, Coronel Castañeda
+05, Ayacucho,07, Parinacochas,04, Pacapausa
+05, Ayacucho,07, Parinacochas,05, Pullo
+05, Ayacucho,07, Parinacochas,06, Puyusca
+05, Ayacucho,07, Parinacochas,07, San Francisco de Rivacayco
+05, Ayacucho,07, Parinacochas,08, Upahuacho
+05, Ayacucho,08, Pàucar del Sara Sara,01, Pausa
+05, Ayacucho,08, Pàucar del Sara Sara,02, Colta
+05, Ayacucho,08, Pàucar del Sara Sara,03, Corculla
+05, Ayacucho,08, Pàucar del Sara Sara,04, Lampa
+05, Ayacucho,08, Pàucar del Sara Sara,05, Marcabamba
+05, Ayacucho,08, Pàucar del Sara Sara,06, Oyolo
+05, Ayacucho,08, Pàucar del Sara Sara,07, Pararca
+05, Ayacucho,08, Pàucar del Sara Sara,08, San Javier de Alpabamba
+05, Ayacucho,08, Pàucar del Sara Sara,09, San José de Ushua
+05, Ayacucho,08, Pàucar del Sara Sara,10, Sara Sara
+05, Ayacucho,09, Sucre,01, Querobamba
+05, Ayacucho,09, Sucre,02, Belén
+05, Ayacucho,09, Sucre,03, Chalcos
+05, Ayacucho,09, Sucre,04, Chilcayoc
+05, Ayacucho,09, Sucre,05, Huacaña
+05, Ayacucho,09, Sucre,06, Morcolla
+05, Ayacucho,09, Sucre,07, Paico
+05, Ayacucho,09, Sucre,08, San Pedro de Larcay
+05, Ayacucho,09, Sucre,09, San Salvador de Quije
+05, Ayacucho,09, Sucre,10, Santiago de Paucaray
+05, Ayacucho,09, Sucre,11, Soras
+05, Ayacucho,10, Víctor Fajardo,01, Huancapi
+05, Ayacucho,10, Víctor Fajardo,02, Alcamenca
+05, Ayacucho,10, Víctor Fajardo,03, Apongo
+05, Ayacucho,10, Víctor Fajardo,04, Asquipata
+05, Ayacucho,10, Víctor Fajardo,05, Canaria
+05, Ayacucho,10, Víctor Fajardo,06, Cayara
+05, Ayacucho,10, Víctor Fajardo,07, Colca
+05, Ayacucho,10, Víctor Fajardo,08, Huamanquiquia
+05, Ayacucho,10, Víctor Fajardo,09, Huancaraylla
+05, Ayacucho,10, Víctor Fajardo,10, Hualla
+05, Ayacucho,10, Víctor Fajardo,11, Sarhua
+05, Ayacucho,10, Víctor Fajardo,12, Vilcanchos
+05, Ayacucho,11, Vilcas Huamán,01, Vilcas Huaman
+05, Ayacucho,11, Vilcas Huamán,02, Accomarca
+05, Ayacucho,11, Vilcas Huamán,03, Carhuanca
+05, Ayacucho,11, Vilcas Huamán,04, Concepción
+05, Ayacucho,11, Vilcas Huamán,05, Huambalpa
+05, Ayacucho,11, Vilcas Huamán,06, Independencia
+05, Ayacucho,11, Vilcas Huamán,07, Saurama
+05, Ayacucho,11, Vilcas Huamán,08, Vischongo
+06, Cajamarca,01, Cajamarca,01, Cajamarca
+06, Cajamarca,01, Cajamarca,02, Asunción
+06, Cajamarca,01, Cajamarca,03, Chetilla
+06, Cajamarca,01, Cajamarca,04, Cospan
+06, Cajamarca,01, Cajamarca,05, Encañada
+06, Cajamarca,01, Cajamarca,06, Jesús
+06, Cajamarca,01, Cajamarca,07, Llacanora
+06, Cajamarca,01, Cajamarca,08, Los Baños del Inca
+06, Cajamarca,01, Cajamarca,09, Magdalena
+06, Cajamarca,01, Cajamarca,10, Matara
+06, Cajamarca,01, Cajamarca,11, Namora
+06, Cajamarca,01, Cajamarca,12, San Juan
+06, Cajamarca,02, Cajabamba,01, Cajabamba
+06, Cajamarca,02, Cajabamba,02, Cachachi
+06, Cajamarca,02, Cajabamba,03, Condebamba
+06, Cajamarca,02, Cajabamba,04, Sitacocha
+06, Cajamarca,03, Celendín,01, Celendín
+06, Cajamarca,03, Celendín,02, Chumuch
+06, Cajamarca,03, Celendín,03, Cortegana
+06, Cajamarca,03, Celendín,04, Huasmin
+06, Cajamarca,03, Celendín,05, Jorge Chávez
+06, Cajamarca,03, Celendín,06, José Gálvez
+06, Cajamarca,03, Celendín,07, Miguel Iglesias
+06, Cajamarca,03, Celendín,08, Oxamarca
+06, Cajamarca,03, Celendín,09, Sorochuco
+06, Cajamarca,03, Celendín,10, Sucre
+06, Cajamarca,03, Celendín,11, Utco
+06, Cajamarca,03, Celendín,12, La Libertad de Pallan
+06, Cajamarca,04, Chota,01, Chota
+06, Cajamarca,04, Chota,02, Anguia
+06, Cajamarca,04, Chota,03, Chadin
+06, Cajamarca,04, Chota,04, Chiguirip
+06, Cajamarca,04, Chota,05, Chimban
+06, Cajamarca,04, Chota,06, Choropampa
+06, Cajamarca,04, Chota,07, Cochabamba
+06, Cajamarca,04, Chota,08, Conchan
+06, Cajamarca,04, Chota,09, Huambos
+06, Cajamarca,04, Chota,10, Lajas
+06, Cajamarca,04, Chota,11, Llama
+06, Cajamarca,04, Chota,12, Miracosta
+06, Cajamarca,04, Chota,13, Paccha
+06, Cajamarca,04, Chota,14, Pion
+06, Cajamarca,04, Chota,15, Querocoto
+06, Cajamarca,04, Chota,16, San Juan de Licupis
+06, Cajamarca,04, Chota,17, Tacabamba
+06, Cajamarca,04, Chota,18, Tocmoche
+06, Cajamarca,04, Chota,19, Chalamarca
+06, Cajamarca,05, Contumazá,01, Contumaza
+06, Cajamarca,05, Contumazá,02, Chilete
+06, Cajamarca,05, Contumazá,03, Cupisnique
+06, Cajamarca,05, Contumazá,04, Guzmango
+06, Cajamarca,05, Contumazá,05, San Benito
+06, Cajamarca,05, Contumazá,06, Santa Cruz de Toledo
+06, Cajamarca,05, Contumazá,07, Tantarica
+06, Cajamarca,05, Contumazá,08, Yonan
+06, Cajamarca,06, Cutervo,01, Cutervo
+06, Cajamarca,06, Cutervo,02, Callayuc
+06, Cajamarca,06, Cutervo,03, Choros
+06, Cajamarca,06, Cutervo,04, Cujillo
+06, Cajamarca,06, Cutervo,05, La Ramada
+06, Cajamarca,06, Cutervo,06, Pimpingos
+06, Cajamarca,06, Cutervo,07, Querocotillo
+06, Cajamarca,06, Cutervo,08, San Andrés de Cutervo
+06, Cajamarca,06, Cutervo,09, San Juan de Cutervo
+06, Cajamarca,06, Cutervo,10, San Luis de Lucma
+06, Cajamarca,06, Cutervo,11, Santa Cruz
+06, Cajamarca,06, Cutervo,12, Santo Domingo de la Capilla
+06, Cajamarca,06, Cutervo,13, Santo Tomas
+06, Cajamarca,06, Cutervo,14, Socota
+06, Cajamarca,06, Cutervo,15, Toribio Casanova
+06, Cajamarca,07, Hualgayoc,01, Bambamarca
+06, Cajamarca,07, Hualgayoc,02, Chugur
+06, Cajamarca,07, Hualgayoc,03, Hualgayoc
+06, Cajamarca,08, Jaén,01, Jaén
+06, Cajamarca,08, Jaén,02, Bellavista
+06, Cajamarca,08, Jaén,03, Chontali
+06, Cajamarca,08, Jaén,04, Colasay
+06, Cajamarca,08, Jaén,05, Huabal
+06, Cajamarca,08, Jaén,06, Las Pirias
+06, Cajamarca,08, Jaén,07, Pomahuaca
+06, Cajamarca,08, Jaén,08, Pucara
+06, Cajamarca,08, Jaén,09, Sallique
+06, Cajamarca,08, Jaén,10, San Felipe
+06, Cajamarca,08, Jaén,11, San José del Alto
+06, Cajamarca,08, Jaén,12, Santa Rosa
+06, Cajamarca,09, San Ignacio,01, San Ignacio
+06, Cajamarca,09, San Ignacio,02, Chirinos
+06, Cajamarca,09, San Ignacio,03, Huarango
+06, Cajamarca,09, San Ignacio,04, La Coipa
+06, Cajamarca,09, San Ignacio,05, Namballe
+06, Cajamarca,09, San Ignacio,06, San José de Lourdes
+06, Cajamarca,09, San Ignacio,07, Tabaconas
+06, Cajamarca,10, San Marcos,01, Pedro Gálvez
+06, Cajamarca,10, San Marcos,02, Chancay
+06, Cajamarca,10, San Marcos,03, Eduardo Villanueva
+06, Cajamarca,10, San Marcos,04, Gregorio Pita
+06, Cajamarca,10, San Marcos,05, Ichocan
+06, Cajamarca,10, San Marcos,06, José Manuel Quiroz
+06, Cajamarca,10, San Marcos,07, José Sabogal
+06, Cajamarca,11, San Miguel,01, San Miguel
+06, Cajamarca,11, San Miguel,02, Bolívar
+06, Cajamarca,11, San Miguel,03, Calquis
+06, Cajamarca,11, San Miguel,04, Catilluc
+06, Cajamarca,11, San Miguel,05, El Prado
+06, Cajamarca,11, San Miguel,06, La Florida
+06, Cajamarca,11, San Miguel,07, Llapa
+06, Cajamarca,11, San Miguel,08, Nanchoc
+06, Cajamarca,11, San Miguel,09, Niepos
+06, Cajamarca,11, San Miguel,10, San Gregorio
+06, Cajamarca,11, San Miguel,11, San Silvestre de Cochan
+06, Cajamarca,11, San Miguel,12, Tongod
+06, Cajamarca,11, San Miguel,13, Unión Agua Blanca
+06, Cajamarca,12, San Pablo,01, San Pablo
+06, Cajamarca,12, San Pablo,02, San Bernardino
+06, Cajamarca,12, San Pablo,03, San Luis
+06, Cajamarca,12, San Pablo,04, Tumbaden
+06, Cajamarca,13, Santa Cruz,01, Santa Cruz
+06, Cajamarca,13, Santa Cruz,02, Andabamba
+06, Cajamarca,13, Santa Cruz,03, Catache
+06, Cajamarca,13, Santa Cruz,04, Chancaybaños
+06, Cajamarca,13, Santa Cruz,05, La Esperanza
+06, Cajamarca,13, Santa Cruz,06, Ninabamba
+06, Cajamarca,13, Santa Cruz,07, Pulan
+06, Cajamarca,13, Santa Cruz,08, Saucepampa
+06, Cajamarca,13, Santa Cruz,09, Sexi
+06, Cajamarca,13, Santa Cruz,10, Uticyacu
+06, Cajamarca,13, Santa Cruz,11, Yauyucan
+07, Callao,01, Prov. Const. del Callao,01, Callao
+07, Callao,01, Prov. Const. del Callao,02, Bellavista
+07, Callao,01, Prov. Const. del Callao,03, Carmen de la Legua Reynoso
+07, Callao,01, Prov. Const. del Callao,04, La Perla
+07, Callao,01, Prov. Const. del Callao,05, La Punta
+07, Callao,01, Prov. Const. del Callao,06, Ventanilla
+07, Callao,01, Prov. Const. del Callao,07, Mi Perú
+08, Cusco,01, Cusco,01, Cusco
+08, Cusco,01, Cusco,02, Ccorca
+08, Cusco,01, Cusco,03, Poroy
+08, Cusco,01, Cusco,04, San Jerónimo
+08, Cusco,01, Cusco,05, San Sebastian
+08, Cusco,01, Cusco,06, Santiago
+08, Cusco,01, Cusco,07, Saylla
+08, Cusco,01, Cusco,08, Wanchaq
+08, Cusco,02, Acomayo,01, Acomayo
+08, Cusco,02, Acomayo,02, Acopia
+08, Cusco,02, Acomayo,03, Acos
+08, Cusco,02, Acomayo,04, Mosoc Llacta
+08, Cusco,02, Acomayo,05, Pomacanchi
+08, Cusco,02, Acomayo,06, Rondocan
+08, Cusco,02, Acomayo,07, Sangarara
+08, Cusco,03, Anta,01, Anta
+08, Cusco,03, Anta,02, Ancahuasi
+08, Cusco,03, Anta,03, Cachimayo
+08, Cusco,03, Anta,04, Chinchaypujio
+08, Cusco,03, Anta,05, Huarocondo
+08, Cusco,03, Anta,06, Limatambo
+08, Cusco,03, Anta,07, Mollepata
+08, Cusco,03, Anta,08, Pucyura
+08, Cusco,03, Anta,09, Zurite
+08, Cusco,04, Calca,01, Calca
+08, Cusco,04, Calca,02, Coya
+08, Cusco,04, Calca,03, Lamay
+08, Cusco,04, Calca,04, Lares
+08, Cusco,04, Calca,05, Pisac
+08, Cusco,04, Calca,06, San Salvador
+08, Cusco,04, Calca,07, Taray
+08, Cusco,04, Calca,08, Yanatile
+08, Cusco,05, Canas,01, Yanaoca
+08, Cusco,05, Canas,02, Checca
+08, Cusco,05, Canas,03, Kunturkanki
+08, Cusco,05, Canas,04, Langui
+08, Cusco,05, Canas,05, Layo
+08, Cusco,05, Canas,06, Pampamarca
+08, Cusco,05, Canas,07, Quehue
+08, Cusco,05, Canas,08, Tupac Amaru
+08, Cusco,06, Canchis,01, Sicuani
+08, Cusco,06, Canchis,02, Checacupe
+08, Cusco,06, Canchis,03, Combapata
+08, Cusco,06, Canchis,04, Marangani
+08, Cusco,06, Canchis,05, Pitumarca
+08, Cusco,06, Canchis,06, San Pablo
+08, Cusco,06, Canchis,07, San Pedro
+08, Cusco,06, Canchis,08, Tinta
+08, Cusco,07, Chumbivilcas,01, Santo Tomas
+08, Cusco,07, Chumbivilcas,02, Capacmarca
+08, Cusco,07, Chumbivilcas,03, Chamaca
+08, Cusco,07, Chumbivilcas,04, Colquemarca
+08, Cusco,07, Chumbivilcas,05, Livitaca
+08, Cusco,07, Chumbivilcas,06, Llusco
+08, Cusco,07, Chumbivilcas,07, Quiñota
+08, Cusco,07, Chumbivilcas,08, Velille
+08, Cusco,08, Espinar,01, Espinar
+08, Cusco,08, Espinar,02, Condoroma
+08, Cusco,08, Espinar,03, Coporaque
+08, Cusco,08, Espinar,04, Ocoruro
+08, Cusco,08, Espinar,05, Pallpata
+08, Cusco,08, Espinar,06, Pichigua
+08, Cusco,08, Espinar,07, Suyckutambo
+08, Cusco,08, Espinar,08, Alto Pichigua
+08, Cusco,09, La Convención,01, Santa Ana
+08, Cusco,09, La Convención,02, Echarate
+08, Cusco,09, La Convención,03, Huayopata
+08, Cusco,09, La Convención,04, Maranura
+08, Cusco,09, La Convención,05, Ocobamba
+08, Cusco,09, La Convención,06, Quellouno
+08, Cusco,09, La Convención,07, Kimbiri
+08, Cusco,09, La Convención,08, Santa Teresa
+08, Cusco,09, La Convención,09, Vilcabamba
+08, Cusco,09, La Convención,10, Pichari
+08, Cusco,09, La Convención,11, Inkawasi
+08, Cusco,09, La Convención,12, Villa Virgen
+08, Cusco,09, La Convención,13, Villa Kintiarina
+08, Cusco,09, La Convención,14, Megantoni
+08, Cusco,09, La Convención,15, Kumpirushiato
+08, Cusco,09, La Convención,16, Cielo Punco
+08, Cusco,09, La Convención,17, Manitea
+08, Cusco,09, La Convención,18, Unión Ashaninka
+08, Cusco,10, Paruro,01, Paruro
+08, Cusco,10, Paruro,02, Accha
+08, Cusco,10, Paruro,03, Ccapi
+08, Cusco,10, Paruro,04, Colcha
+08, Cusco,10, Paruro,05, Huanoquite
+08, Cusco,10, Paruro,06, Omacha
+08, Cusco,10, Paruro,07, Paccaritambo
+08, Cusco,10, Paruro,08, Pillpinto
+08, Cusco,10, Paruro,09, Yaurisque
+08, Cusco,11, Paucartambo,01, Paucartambo
+08, Cusco,11, Paucartambo,02, Caicay
+08, Cusco,11, Paucartambo,03, Challabamba
+08, Cusco,11, Paucartambo,04, Colquepata
+08, Cusco,11, Paucartambo,05, Huancarani
+08, Cusco,11, Paucartambo,06, Kosñipata
+08, Cusco,12, Quispicanchi,01, Urcos
+08, Cusco,12, Quispicanchi,02, Andahuaylillas
+08, Cusco,12, Quispicanchi,03, Camanti
+08, Cusco,12, Quispicanchi,04, Ccarhuayo
+08, Cusco,12, Quispicanchi,05, Ccatca
+08, Cusco,12, Quispicanchi,06, Cusipata
+08, Cusco,12, Quispicanchi,07, Huaro
+08, Cusco,12, Quispicanchi,08, Lucre
+08, Cusco,12, Quispicanchi,09, Marcapata
+08, Cusco,12, Quispicanchi,10, Ocongate
+08, Cusco,12, Quispicanchi,11, Oropesa
+08, Cusco,12, Quispicanchi,12, Quiquijana
+08, Cusco,13, Urubamba,01, Urubamba
+08, Cusco,13, Urubamba,02, Chinchero
+08, Cusco,13, Urubamba,03, Huayllabamba
+08, Cusco,13, Urubamba,04, Machupicchu
+08, Cusco,13, Urubamba,05, Maras
+08, Cusco,13, Urubamba,06, Ollantaytambo
+08, Cusco,13, Urubamba,07, Yucay
+09, Huancavelica,01, Huancavelica,01, Huancavelica
+09, Huancavelica,01, Huancavelica,02, Acobambilla
+09, Huancavelica,01, Huancavelica,03, Acoria
+09, Huancavelica,01, Huancavelica,04, Conayca
+09, Huancavelica,01, Huancavelica,05, Cuenca
+09, Huancavelica,01, Huancavelica,06, Huachocolpa
+09, Huancavelica,01, Huancavelica,07, Huayllahuara
+09, Huancavelica,01, Huancavelica,08, Izcuchaca
+09, Huancavelica,01, Huancavelica,09, Laria
+09, Huancavelica,01, Huancavelica,10, Manta
+09, Huancavelica,01, Huancavelica,11, Mariscal Cáceres
+09, Huancavelica,01, Huancavelica,12, Moya
+09, Huancavelica,01, Huancavelica,13, Nuevo Occoro
+09, Huancavelica,01, Huancavelica,14, Palca
+09, Huancavelica,01, Huancavelica,15, Pilchaca
+09, Huancavelica,01, Huancavelica,16, Vilca
+09, Huancavelica,01, Huancavelica,17, Yauli
+09, Huancavelica,01, Huancavelica,18, Ascensión
+09, Huancavelica,01, Huancavelica,19, Huando
+09, Huancavelica,02, Acobamba,01, Acobamba
+09, Huancavelica,02, Acobamba,02, Andabamba
+09, Huancavelica,02, Acobamba,03, Anta
+09, Huancavelica,02, Acobamba,04, Caja
+09, Huancavelica,02, Acobamba,05, Marcas
+09, Huancavelica,02, Acobamba,06, Paucara
+09, Huancavelica,02, Acobamba,07, Pomacocha
+09, Huancavelica,02, Acobamba,08, Rosario
+09, Huancavelica,03, Angaraes,01, Lircay
+09, Huancavelica,03, Angaraes,02, Anchonga
+09, Huancavelica,03, Angaraes,03, Callanmarca
+09, Huancavelica,03, Angaraes,04, Ccochaccasa
+09, Huancavelica,03, Angaraes,05, Chincho
+09, Huancavelica,03, Angaraes,06, Congalla
+09, Huancavelica,03, Angaraes,07, Huanca-Huanca
+09, Huancavelica,03, Angaraes,08, Huayllay Grande
+09, Huancavelica,03, Angaraes,09, Julcamarca
+09, Huancavelica,03, Angaraes,10, San Antonio de Antaparco
+09, Huancavelica,03, Angaraes,11, Santo Tomas de Pata
+09, Huancavelica,03, Angaraes,12, Secclla
+09, Huancavelica,04, Castrovirreyna,01, Castrovirreyna
+09, Huancavelica,04, Castrovirreyna,02, Arma
+09, Huancavelica,04, Castrovirreyna,03, Aurahua
+09, Huancavelica,04, Castrovirreyna,04, Capillas
+09, Huancavelica,04, Castrovirreyna,05, Chupamarca
+09, Huancavelica,04, Castrovirreyna,06, Cocas
+09, Huancavelica,04, Castrovirreyna,07, Huachos
+09, Huancavelica,04, Castrovirreyna,08, Huamatambo
+09, Huancavelica,04, Castrovirreyna,09, Mollepampa
+09, Huancavelica,04, Castrovirreyna,10, San Juan
+09, Huancavelica,04, Castrovirreyna,11, Santa Ana
+09, Huancavelica,04, Castrovirreyna,12, Tantara
+09, Huancavelica,04, Castrovirreyna,13, Ticrapo
+09, Huancavelica,05, Churcampa,01, Churcampa
+09, Huancavelica,05, Churcampa,02, Anco
+09, Huancavelica,05, Churcampa,03, Chinchihuasi
+09, Huancavelica,05, Churcampa,04, El Carmen
+09, Huancavelica,05, Churcampa,05, La Merced
+09, Huancavelica,05, Churcampa,06, Locroja
+09, Huancavelica,05, Churcampa,07, Paucarbamba
+09, Huancavelica,05, Churcampa,08, San Miguel de Mayocc
+09, Huancavelica,05, Churcampa,09, San Pedro de Coris
+09, Huancavelica,05, Churcampa,10, Pachamarca
+09, Huancavelica,05, Churcampa,11, Cosme
+09, Huancavelica,06, Huaytará,01, Huaytara
+09, Huancavelica,06, Huaytará,02, Ayavi
+09, Huancavelica,06, Huaytará,03, Córdova
+09, Huancavelica,06, Huaytará,04, Huayacundo Arma
+09, Huancavelica,06, Huaytará,05, Laramarca
+09, Huancavelica,06, Huaytará,06, Ocoyo
+09, Huancavelica,06, Huaytará,07, Pilpichaca
+09, Huancavelica,06, Huaytará,08, Querco
+09, Huancavelica,06, Huaytará,09, Quito-Arma
+09, Huancavelica,06, Huaytará,10, San Antonio de Cusicancha
+09, Huancavelica,06, Huaytará,11, San Francisco de Sangayaico
+09, Huancavelica,06, Huaytará,12, San Isidro
+09, Huancavelica,06, Huaytará,13, Santiago de Chocorvos
+09, Huancavelica,06, Huaytará,14, Santiago de Quirahuara
+09, Huancavelica,06, Huaytará,15, Santo Domingo de Capillas
+09, Huancavelica,06, Huaytará,16, Tambo
+09, Huancavelica,07, Tayacaja,01, Pampas
+09, Huancavelica,07, Tayacaja,02, Acostambo
+09, Huancavelica,07, Tayacaja,03, Acraquia
+09, Huancavelica,07, Tayacaja,04, Ahuaycha
+09, Huancavelica,07, Tayacaja,05, Colcabamba
+09, Huancavelica,07, Tayacaja,06, Daniel Hernández
+09, Huancavelica,07, Tayacaja,07, Huachocolpa
+09, Huancavelica,07, Tayacaja,09, Huaribamba
+09, Huancavelica,07, Tayacaja,10, Ñahuimpuquio
+09, Huancavelica,07, Tayacaja,11, Pazos
+09, Huancavelica,07, Tayacaja,13, Quishuar
+09, Huancavelica,07, Tayacaja,14, Salcabamba
+09, Huancavelica,07, Tayacaja,15, Salcahuasi
+09, Huancavelica,07, Tayacaja,16, San Marcos de Rocchac
+09, Huancavelica,07, Tayacaja,17, Surcubamba
+09, Huancavelica,07, Tayacaja,18, Tintay Puncu
+09, Huancavelica,07, Tayacaja,19, Quichuas
+09, Huancavelica,07, Tayacaja,20, Andaymarca
+09, Huancavelica,07, Tayacaja,21, Roble
+09, Huancavelica,07, Tayacaja,22, Pichos
+09, Huancavelica,07, Tayacaja,23, Santiago de Tucuma
+09, Huancavelica,07, Tayacaja,24, Lambras
+09, Huancavelica,07, Tayacaja,25, Cochabamba
+10, Huánuco,01, Huánuco,01, Huanuco
+10, Huánuco,01, Huánuco,02, Amarilis
+10, Huánuco,01, Huánuco,03, Chinchao
+10, Huánuco,01, Huánuco,04, Churubamba
+10, Huánuco,01, Huánuco,05, Margos
+10, Huánuco,01, Huánuco,06, Quisqui (Kichki)
+10, Huánuco,01, Huánuco,07, San Francisco de Cayran
+10, Huánuco,01, Huánuco,08, San Pedro de Chaulan
+10, Huánuco,01, Huánuco,09, Santa María del Valle
+10, Huánuco,01, Huánuco,10, Yarumayo
+10, Huánuco,01, Huánuco,11, Pillco Marca
+10, Huánuco,01, Huánuco,12, Yacus
+10, Huánuco,01, Huánuco,13, San Pablo de Pillao
+10, Huánuco,02, Ambo,01, Ambo
+10, Huánuco,02, Ambo,02, Cayna
+10, Huánuco,02, Ambo,03, Colpas
+10, Huánuco,02, Ambo,04, Conchamarca
+10, Huánuco,02, Ambo,05, Huacar
+10, Huánuco,02, Ambo,06, San Francisco
+10, Huánuco,02, Ambo,07, San Rafael
+10, Huánuco,02, Ambo,08, Tomay Kichwa
+10, Huánuco,03, Dos de Mayo,01, La Unión
+10, Huánuco,03, Dos de Mayo,07, Chuquis
+10, Huánuco,03, Dos de Mayo,11, Marías
+10, Huánuco,03, Dos de Mayo,13, Pachas
+10, Huánuco,03, Dos de Mayo,16, Quivilla
+10, Huánuco,03, Dos de Mayo,17, Ripan
+10, Huánuco,03, Dos de Mayo,21, Shunqui
+10, Huánuco,03, Dos de Mayo,22, Sillapata
+10, Huánuco,03, Dos de Mayo,23, Yanas
+10, Huánuco,04, Huacaybamba,01, Huacaybamba
+10, Huánuco,04, Huacaybamba,02, Canchabamba
+10, Huánuco,04, Huacaybamba,03, Cochabamba
+10, Huánuco,04, Huacaybamba,04, Pinra
+10, Huánuco,05, Huamalíes,01, Llata
+10, Huánuco,05, Huamalíes,02, Arancay
+10, Huánuco,05, Huamalíes,03, Chavín de Pariarca
+10, Huánuco,05, Huamalíes,04, Jacas Grande
+10, Huánuco,05, Huamalíes,05, Jircan
+10, Huánuco,05, Huamalíes,06, Miraflores
+10, Huánuco,05, Huamalíes,07, Monzón
+10, Huánuco,05, Huamalíes,08, Punchao
+10, Huánuco,05, Huamalíes,09, Puños
+10, Huánuco,05, Huamalíes,10, Singa
+10, Huánuco,05, Huamalíes,11, Tantamayo
+10, Huánuco,06, Leoncio Prado,01, Rupa-Rupa
+10, Huánuco,06, Leoncio Prado,02, Daniel Alomía Robles
+10, Huánuco,06, Leoncio Prado,03, Hermílio Valdizan
+10, Huánuco,06, Leoncio Prado,04, José Crespo y Castillo
+10, Huánuco,06, Leoncio Prado,05, Luyando
+10, Huánuco,06, Leoncio Prado,06, Mariano Damaso Beraun
+10, Huánuco,06, Leoncio Prado,07, Pucayacu
+10, Huánuco,06, Leoncio Prado,08, Castillo Grande
+10, Huánuco,06, Leoncio Prado,09, Pueblo Nuevo
+10, Huánuco,06, Leoncio Prado,10, Santo Domingo de Anda
+10, Huánuco,07, Marañón,01, Huacrachuco
+10, Huánuco,07, Marañón,02, Cholon
+10, Huánuco,07, Marañón,03, San Buenaventura
+10, Huánuco,07, Marañón,04, La Morada
+10, Huánuco,07, Marañón,05, Santa Rosa de Alto Yanajanca
+10, Huánuco,08, Pachitea,01, Panao
+10, Huánuco,08, Pachitea,02, Chaglla
+10, Huánuco,08, Pachitea,03, Molino
+10, Huánuco,08, Pachitea,04, Umari
+10, Huánuco,09, Puerto Inca,01, Puerto Inca
+10, Huánuco,09, Puerto Inca,02, Codo del Pozuzo
+10, Huánuco,09, Puerto Inca,03, Honoria
+10, Huánuco,09, Puerto Inca,04, Tournavista
+10, Huánuco,09, Puerto Inca,05, Yuyapichis
+10, Huánuco,10, Lauricocha ,01, Jesús
+10, Huánuco,10, Lauricocha ,02, Baños
+10, Huánuco,10, Lauricocha ,03, Jivia
+10, Huánuco,10, Lauricocha ,04, Queropalca
+10, Huánuco,10, Lauricocha ,05, Rondos
+10, Huánuco,10, Lauricocha ,06, San Francisco de Asís
+10, Huánuco,10, Lauricocha ,07, San Miguel de Cauri
+10, Huánuco,11, Yarowilca ,01, Chavinillo
+10, Huánuco,11, Yarowilca ,02, Cahuac
+10, Huánuco,11, Yarowilca ,03, Chacabamba
+10, Huánuco,11, Yarowilca ,04, Aparicio Pomares
+10, Huánuco,11, Yarowilca ,05, Jacas Chico
+10, Huánuco,11, Yarowilca ,06, Obas
+10, Huánuco,11, Yarowilca ,07, Pampamarca
+10, Huánuco,11, Yarowilca ,08, Choras
+11, Ica,01, Ica ,01, Ica
+11, Ica,01, Ica ,02, La Tinguiña
+11, Ica,01, Ica ,03, Los Aquijes
+11, Ica,01, Ica ,04, Ocucaje
+11, Ica,01, Ica ,05, Pachacutec
+11, Ica,01, Ica ,06, Parcona
+11, Ica,01, Ica ,07, Pueblo Nuevo
+11, Ica,01, Ica ,08, Salas
+11, Ica,01, Ica ,09, San José de Los Molinos
+11, Ica,01, Ica ,10, San Juan Bautista
+11, Ica,01, Ica ,11, Santiago
+11, Ica,01, Ica ,12, Subtanjalla
+11, Ica,01, Ica ,13, Tate
+11, Ica,01, Ica ,14, Yauca del Rosario
+11, Ica,02, Chincha ,01, Chincha Alta
+11, Ica,02, Chincha ,02, Alto Laran
+11, Ica,02, Chincha ,03, Chavin
+11, Ica,02, Chincha ,04, Chincha Baja
+11, Ica,02, Chincha ,05, El Carmen
+11, Ica,02, Chincha ,06, Grocio Prado
+11, Ica,02, Chincha ,07, Pueblo Nuevo
+11, Ica,02, Chincha ,08, San Juan de Yanac
+11, Ica,02, Chincha ,09, San Pedro de Huacarpana
+11, Ica,02, Chincha ,10, Sunampe
+11, Ica,02, Chincha ,11, Tambo de Mora
+11, Ica,03, Nasca ,01, Nasca
+11, Ica,03, Nasca ,02, Changuillo
+11, Ica,03, Nasca ,03, El Ingenio
+11, Ica,03, Nasca ,04, Marcona
+11, Ica,03, Nasca ,05, Vista Alegre
+11, Ica,04, Palpa ,01, Palpa
+11, Ica,04, Palpa ,02, Llipata
+11, Ica,04, Palpa ,03, Río Grande
+11, Ica,04, Palpa ,04, Santa Cruz
+11, Ica,04, Palpa ,05, Tibillo
+11, Ica,05, Pisco ,01, Pisco
+11, Ica,05, Pisco ,02, Huancano
+11, Ica,05, Pisco ,03, Humay
+11, Ica,05, Pisco ,04, Independencia
+11, Ica,05, Pisco ,05, Paracas
+11, Ica,05, Pisco ,06, San Andrés
+11, Ica,05, Pisco ,07, San Clemente
+11, Ica,05, Pisco ,08, Tupac Amaru Inca
+12, Junín,01, Huancayo ,01, Huancayo
+12, Junín,01, Huancayo ,04, Carhuacallanga
+12, Junín,01, Huancayo ,05, Chacapampa
+12, Junín,01, Huancayo ,06, Chicche
+12, Junín,01, Huancayo ,07, Chilca
+12, Junín,01, Huancayo ,08, Chongos Alto
+12, Junín,01, Huancayo ,11, Chupuro
+12, Junín,01, Huancayo ,12, Colca
+12, Junín,01, Huancayo ,13, Cullhuas
+12, Junín,01, Huancayo ,14, El Tambo
+12, Junín,01, Huancayo ,16, Huacrapuquio
+12, Junín,01, Huancayo ,17, Hualhuas
+12, Junín,01, Huancayo ,19, Huancan
+12, Junín,01, Huancayo ,20, Huasicancha
+12, Junín,01, Huancayo ,21, Huayucachi
+12, Junín,01, Huancayo ,22, Ingenio
+12, Junín,01, Huancayo ,24, Pariahuanca
+12, Junín,01, Huancayo ,25, Pilcomayo
+12, Junín,01, Huancayo ,26, Pucara
+12, Junín,01, Huancayo ,27, Quichuay
+12, Junín,01, Huancayo ,28, Quilcas
+12, Junín,01, Huancayo ,29, San Agustín
+12, Junín,01, Huancayo ,30, San Jerónimo de Tunan
+12, Junín,01, Huancayo ,32, Saño
+12, Junín,01, Huancayo ,33, Sapallanga
+12, Junín,01, Huancayo ,34, Sicaya
+12, Junín,01, Huancayo ,35, Santo Domingo de Acobamba
+12, Junín,01, Huancayo ,36, Viques
+12, Junín,02, Concepción ,01, Concepción
+12, Junín,02, Concepción ,02, Aco
+12, Junín,02, Concepción ,03, Andamarca
+12, Junín,02, Concepción ,04, Chambara
+12, Junín,02, Concepción ,05, Cochas
+12, Junín,02, Concepción ,06, Comas
+12, Junín,02, Concepción ,07, Heroínas Toledo
+12, Junín,02, Concepción ,08, Manzanares
+12, Junín,02, Concepción ,09, Mariscal Castilla
+12, Junín,02, Concepción ,10, Matahuasi
+12, Junín,02, Concepción ,11, Mito
+12, Junín,02, Concepción ,12, Nueve de Julio
+12, Junín,02, Concepción ,13, Orcotuna
+12, Junín,02, Concepción ,14, San José de Quero
+12, Junín,02, Concepción ,15, Santa Rosa de Ocopa
+12, Junín,03, Chanchamayo ,01, Chanchamayo
+12, Junín,03, Chanchamayo ,02, Perene
+12, Junín,03, Chanchamayo ,03, Pichanaqui
+12, Junín,03, Chanchamayo ,04, San Luis de Shuaro
+12, Junín,03, Chanchamayo ,05, San Ramón
+12, Junín,03, Chanchamayo ,06, Vitoc
+12, Junín,04, Jauja ,01, Jauja
+12, Junín,04, Jauja ,02, Acolla
+12, Junín,04, Jauja ,03, Apata
+12, Junín,04, Jauja ,04, Ataura
+12, Junín,04, Jauja ,05, Canchayllo
+12, Junín,04, Jauja ,06, Curicaca
+12, Junín,04, Jauja ,07, El Mantaro
+12, Junín,04, Jauja ,08, Huamali
+12, Junín,04, Jauja ,09, Huaripampa
+12, Junín,04, Jauja ,10, Huertas
+12, Junín,04, Jauja ,11, Janjaillo
+12, Junín,04, Jauja ,12, Julcán
+12, Junín,04, Jauja ,13, Leonor Ordóñez
+12, Junín,04, Jauja ,14, Llocllapampa
+12, Junín,04, Jauja ,15, Marco
+12, Junín,04, Jauja ,16, Masma
+12, Junín,04, Jauja ,17, Masma Chicche
+12, Junín,04, Jauja ,18, Molinos
+12, Junín,04, Jauja ,19, Monobamba
+12, Junín,04, Jauja ,20, Muqui
+12, Junín,04, Jauja ,21, Muquiyauyo
+12, Junín,04, Jauja ,22, Paca
+12, Junín,04, Jauja ,23, Paccha
+12, Junín,04, Jauja ,24, Pancan
+12, Junín,04, Jauja ,25, Parco
+12, Junín,04, Jauja ,26, Pomacancha
+12, Junín,04, Jauja ,27, Ricran
+12, Junín,04, Jauja ,28, San Lorenzo
+12, Junín,04, Jauja ,29, San Pedro de Chunan
+12, Junín,04, Jauja ,30, Sausa
+12, Junín,04, Jauja ,31, Sincos
+12, Junín,04, Jauja ,32, Tunan Marca
+12, Junín,04, Jauja ,33, Yauli
+12, Junín,04, Jauja ,34, Yauyos
+12, Junín,05, Junín ,01, Junin
+12, Junín,05, Junín ,02, Carhuamayo
+12, Junín,05, Junín ,03, Ondores
+12, Junín,05, Junín ,04, Ulcumayo
+12, Junín,06, Satipo ,01, Satipo
+12, Junín,06, Satipo ,02, Coviriali
+12, Junín,06, Satipo ,03, Llaylla
+12, Junín,06, Satipo ,04, Mazamari
+12, Junín,06, Satipo ,05, Pampa Hermosa
+12, Junín,06, Satipo ,06, Pangoa
+12, Junín,06, Satipo ,07, Río Negro
+12, Junín,06, Satipo ,08, Río Tambo
+12, Junín,06, Satipo ,09, Vizcatán del Ene
+12, Junín,07, Tarma ,01, Tarma
+12, Junín,07, Tarma ,02, Acobamba
+12, Junín,07, Tarma ,03, Huaricolca
+12, Junín,07, Tarma ,04, Huasahuasi
+12, Junín,07, Tarma ,05, La Unión
+12, Junín,07, Tarma ,06, Palca
+12, Junín,07, Tarma ,07, Palcamayo
+12, Junín,07, Tarma ,08, San Pedro de Cajas
+12, Junín,07, Tarma ,09, Tapo
+12, Junín,08, Yauli ,01, La Oroya
+12, Junín,08, Yauli ,02, Chacapalpa
+12, Junín,08, Yauli ,03, Huay-Huay
+12, Junín,08, Yauli ,04, Marcapomacocha
+12, Junín,08, Yauli ,05, Morococha
+12, Junín,08, Yauli ,06, Paccha
+12, Junín,08, Yauli ,07, Santa Bárbara de Carhuacayan
+12, Junín,08, Yauli ,08, Santa Rosa de Sacco
+12, Junín,08, Yauli ,09, Suitucancha
+12, Junín,08, Yauli ,10, Yauli
+12, Junín,09, Chupaca ,01, Chupaca
+12, Junín,09, Chupaca ,02, Ahuac
+12, Junín,09, Chupaca ,03, Chongos Bajo
+12, Junín,09, Chupaca ,04, Huachac
+12, Junín,09, Chupaca ,05, Huamancaca Chico
+12, Junín,09, Chupaca ,06, San Juan de Iscos
+12, Junín,09, Chupaca ,07, San Juan de Jarpa
+12, Junín,09, Chupaca ,08, Tres de Diciembre
+12, Junín,09, Chupaca ,09, Yanacancha
+13, La Libertad,01, Trujillo ,01, Trujillo
+13, La Libertad,01, Trujillo ,02, El Porvenir
+13, La Libertad,01, Trujillo ,03, Florencia de Mora
+13, La Libertad,01, Trujillo ,04, Huanchaco
+13, La Libertad,01, Trujillo ,05, La Esperanza
+13, La Libertad,01, Trujillo ,06, Laredo
+13, La Libertad,01, Trujillo ,07, Moche
+13, La Libertad,01, Trujillo ,08, Poroto
+13, La Libertad,01, Trujillo ,09, Salaverry
+13, La Libertad,01, Trujillo ,10, Simbal
+13, La Libertad,01, Trujillo ,11, Victor Larco Herrera
+13, La Libertad,01, Trujillo ,12, Alto Trujillo
+13, La Libertad,02, Ascope ,01, Ascope
+13, La Libertad,02, Ascope ,02, Chicama
+13, La Libertad,02, Ascope ,03, Chocope
+13, La Libertad,02, Ascope ,04, Magdalena de Cao
+13, La Libertad,02, Ascope ,05, Paijan
+13, La Libertad,02, Ascope ,06, Rázuri
+13, La Libertad,02, Ascope ,07, Santiago de Cao
+13, La Libertad,02, Ascope ,08, Casa Grande
+13, La Libertad,03, Bolívar ,01, Bolívar
+13, La Libertad,03, Bolívar ,02, Bambamarca
+13, La Libertad,03, Bolívar ,03, Condormarca
+13, La Libertad,03, Bolívar ,04, Longotea
+13, La Libertad,03, Bolívar ,05, Uchumarca
+13, La Libertad,03, Bolívar ,06, Ucuncha
+13, La Libertad,04, Chepén ,01, Chepen
+13, La Libertad,04, Chepén ,02, Pacanga
+13, La Libertad,04, Chepén ,03, Pueblo Nuevo
+13, La Libertad,05, Julcán ,01, Julcan
+13, La Libertad,05, Julcán ,02, Calamarca
+13, La Libertad,05, Julcán ,03, Carabamba
+13, La Libertad,05, Julcán ,04, Huaso
+13, La Libertad,06, Otuzco ,01, Otuzco
+13, La Libertad,06, Otuzco ,02, Agallpampa
+13, La Libertad,06, Otuzco ,04, Charat
+13, La Libertad,06, Otuzco ,05, Huaranchal
+13, La Libertad,06, Otuzco ,06, La Cuesta
+13, La Libertad,06, Otuzco ,08, Mache
+13, La Libertad,06, Otuzco ,10, Paranday
+13, La Libertad,06, Otuzco ,11, Salpo
+13, La Libertad,06, Otuzco ,13, Sinsicap
+13, La Libertad,06, Otuzco ,14, Usquil
+13, La Libertad,07, Pacasmayo ,01, San Pedro de Lloc
+13, La Libertad,07, Pacasmayo ,02, Guadalupe
+13, La Libertad,07, Pacasmayo ,03, Jequetepeque
+13, La Libertad,07, Pacasmayo ,04, Pacasmayo
+13, La Libertad,07, Pacasmayo ,05, San José
+13, La Libertad,08, Pataz ,01, Tayabamba
+13, La Libertad,08, Pataz ,02, Buldibuyo
+13, La Libertad,08, Pataz ,03, Chillia
+13, La Libertad,08, Pataz ,04, Huancaspata
+13, La Libertad,08, Pataz ,05, Huaylillas
+13, La Libertad,08, Pataz ,06, Huayo
+13, La Libertad,08, Pataz ,07, Ongon
+13, La Libertad,08, Pataz ,08, Parcoy
+13, La Libertad,08, Pataz ,09, Pataz
+13, La Libertad,08, Pataz ,10, Pias
+13, La Libertad,08, Pataz ,11, Santiago de Challas
+13, La Libertad,08, Pataz ,12, Taurija
+13, La Libertad,08, Pataz ,13, Urpay
+13, La Libertad,09, Sánchez Carrión ,01, Huamachuco
+13, La Libertad,09, Sánchez Carrión ,02, Chugay
+13, La Libertad,09, Sánchez Carrión ,03, Cochorco
+13, La Libertad,09, Sánchez Carrión ,04, Curgos
+13, La Libertad,09, Sánchez Carrión ,05, Marcabal
+13, La Libertad,09, Sánchez Carrión ,06, Sanagoran
+13, La Libertad,09, Sánchez Carrión ,07, Sarin
+13, La Libertad,09, Sánchez Carrión ,08, Sartimbamba
+13, La Libertad,10, Santiago de Chuco ,01, Santiago de Chuco
+13, La Libertad,10, Santiago de Chuco ,02, Angasmarca
+13, La Libertad,10, Santiago de Chuco ,03, Cachicadan
+13, La Libertad,10, Santiago de Chuco ,04, Mollebamba
+13, La Libertad,10, Santiago de Chuco ,05, Mollepata
+13, La Libertad,10, Santiago de Chuco ,06, Quiruvilca
+13, La Libertad,10, Santiago de Chuco ,07, Santa Cruz de Chuca
+13, La Libertad,10, Santiago de Chuco ,08, Sitabamba
+13, La Libertad,11, Gran Chimú ,01, Cascas
+13, La Libertad,11, Gran Chimú ,02, Lucma
+13, La Libertad,11, Gran Chimú ,03, Marmot
+13, La Libertad,11, Gran Chimú ,04, Sayapullo
+13, La Libertad,12, Virú ,01, Viru
+13, La Libertad,12, Virú ,02, Chao
+13, La Libertad,12, Virú ,03, Guadalupito
+14, Lambayeque,01, Chiclayo ,01, Chiclayo
+14, Lambayeque,01, Chiclayo ,02, Chongoyape
+14, Lambayeque,01, Chiclayo ,03, Eten
+14, Lambayeque,01, Chiclayo ,04, Eten Puerto
+14, Lambayeque,01, Chiclayo ,05, José Leonardo Ortiz
+14, Lambayeque,01, Chiclayo ,06, La Victoria
+14, Lambayeque,01, Chiclayo ,07, Lagunas
+14, Lambayeque,01, Chiclayo ,08, Monsefu
+14, Lambayeque,01, Chiclayo ,09, Nueva Arica
+14, Lambayeque,01, Chiclayo ,10, Oyotun
+14, Lambayeque,01, Chiclayo ,11, Picsi
+14, Lambayeque,01, Chiclayo ,12, Pimentel
+14, Lambayeque,01, Chiclayo ,13, Reque
+14, Lambayeque,01, Chiclayo ,14, Santa Rosa
+14, Lambayeque,01, Chiclayo ,15, Saña
+14, Lambayeque,01, Chiclayo ,16, Cayalti
+14, Lambayeque,01, Chiclayo ,17, Patapo
+14, Lambayeque,01, Chiclayo ,18, Pomalca
+14, Lambayeque,01, Chiclayo ,19, Pucala
+14, Lambayeque,01, Chiclayo ,20, Tuman
+14, Lambayeque,02, Ferreñafe ,01, Ferreñafe
+14, Lambayeque,02, Ferreñafe ,02, Cañaris
+14, Lambayeque,02, Ferreñafe ,03, Incahuasi
+14, Lambayeque,02, Ferreñafe ,04, Manuel Antonio Mesones Muro
+14, Lambayeque,02, Ferreñafe ,05, Pitipo
+14, Lambayeque,02, Ferreñafe ,06, Pueblo Nuevo
+14, Lambayeque,03, Lambayeque ,01, Lambayeque
+14, Lambayeque,03, Lambayeque ,02, Chochope
+14, Lambayeque,03, Lambayeque ,03, Illimo
+14, Lambayeque,03, Lambayeque ,04, Jayanca
+14, Lambayeque,03, Lambayeque ,05, Mochumi
+14, Lambayeque,03, Lambayeque ,06, Morrope
+14, Lambayeque,03, Lambayeque ,07, Motupe
+14, Lambayeque,03, Lambayeque ,08, Olmos
+14, Lambayeque,03, Lambayeque ,09, Pacora
+14, Lambayeque,03, Lambayeque ,10, Salas
+14, Lambayeque,03, Lambayeque ,11, San José
+14, Lambayeque,03, Lambayeque ,12, Tucume
+15, Lima,01, Lima ,01, Lima
+15, Lima,01, Lima ,02, Ancón
+15, Lima,01, Lima ,03, Ate
+15, Lima,01, Lima ,04, Barranco
+15, Lima,01, Lima ,05, Breña
+15, Lima,01, Lima ,06, Carabayllo
+15, Lima,01, Lima ,07, Chaclacayo
+15, Lima,01, Lima ,08, Chorrillos
+15, Lima,01, Lima ,09, Cieneguilla
+15, Lima,01, Lima ,10, Comas
+15, Lima,01, Lima ,11, El Agustino
+15, Lima,01, Lima ,12, Independencia
+15, Lima,01, Lima ,13, Jesús María
+15, Lima,01, Lima ,14, La Molina
+15, Lima,01, Lima ,15, La Victoria
+15, Lima,01, Lima ,16, Lince
+15, Lima,01, Lima ,17, Los Olivos
+15, Lima,01, Lima ,18, Lurigancho
+15, Lima,01, Lima ,19, Lurin
+15, Lima,01, Lima ,20, Magdalena del Mar
+15, Lima,01, Lima ,21, Pueblo Libre
+15, Lima,01, Lima ,22, Miraflores
+15, Lima,01, Lima ,23, Pachacamac
+15, Lima,01, Lima ,24, Pucusana
+15, Lima,01, Lima ,25, Puente Piedra
+15, Lima,01, Lima ,26, Punta Hermosa
+15, Lima,01, Lima ,27, Punta Negra
+15, Lima,01, Lima ,28, Rímac
+15, Lima,01, Lima ,29, San Bartolo
+15, Lima,01, Lima ,30, San Borja
+15, Lima,01, Lima ,31, San Isidro
+15, Lima,01, Lima ,32, San Juan de Lurigancho
+15, Lima,01, Lima ,33, San Juan de Miraflores
+15, Lima,01, Lima ,34, San Luis
+15, Lima,01, Lima ,35, San Martín de Porres
+15, Lima,01, Lima ,36, San Miguel
+15, Lima,01, Lima ,37, Santa Anita
+15, Lima,01, Lima ,38, Santa María del Mar
+15, Lima,01, Lima ,39, Santa Rosa
+15, Lima,01, Lima ,40, Santiago de Surco
+15, Lima,01, Lima ,41, Surquillo
+15, Lima,01, Lima ,42, Villa El Salvador
+15, Lima,01, Lima ,43, Villa María del Triunfo
+15, Lima,02, Barranca ,01, Barranca
+15, Lima,02, Barranca ,02, Paramonga
+15, Lima,02, Barranca ,03, Pativilca
+15, Lima,02, Barranca ,04, Supe
+15, Lima,02, Barranca ,05, Supe Puerto
+15, Lima,03, Cajatambo ,01, Cajatambo
+15, Lima,03, Cajatambo ,02, Copa
+15, Lima,03, Cajatambo ,03, Gorgor
+15, Lima,03, Cajatambo ,04, Huancapon
+15, Lima,03, Cajatambo ,05, Manas
+15, Lima,04, Canta ,01, Canta
+15, Lima,04, Canta ,02, Arahuay
+15, Lima,04, Canta ,03, Huamantanga
+15, Lima,04, Canta ,04, Huaros
+15, Lima,04, Canta ,05, Lachaqui
+15, Lima,04, Canta ,06, San Buenaventura
+15, Lima,04, Canta ,07, Santa Rosa de Quives
+15, Lima,05, Cañete ,01, San Vicente de Cañete
+15, Lima,05, Cañete ,02, Asia
+15, Lima,05, Cañete ,03, Calango
+15, Lima,05, Cañete ,04, Cerro Azul
+15, Lima,05, Cañete ,05, Chilca
+15, Lima,05, Cañete ,06, Coayllo
+15, Lima,05, Cañete ,07, Imperial
+15, Lima,05, Cañete ,08, Lunahuana
+15, Lima,05, Cañete ,09, Mala
+15, Lima,05, Cañete ,10, Nuevo Imperial
+15, Lima,05, Cañete ,11, Pacaran
+15, Lima,05, Cañete ,12, Quilmana
+15, Lima,05, Cañete ,13, San Antonio
+15, Lima,05, Cañete ,14, San Luis
+15, Lima,05, Cañete ,15, Santa Cruz de Flores
+15, Lima,05, Cañete ,16, Zúñiga
+15, Lima,06, Huaral ,01, Huaral
+15, Lima,06, Huaral ,02, Atavillos Alto
+15, Lima,06, Huaral ,03, Atavillos Bajo
+15, Lima,06, Huaral ,04, Aucallama
+15, Lima,06, Huaral ,05, Chancay
+15, Lima,06, Huaral ,06, Ihuari
+15, Lima,06, Huaral ,07, Lampian
+15, Lima,06, Huaral ,08, Pacaraos
+15, Lima,06, Huaral ,09, San Miguel de Acos
+15, Lima,06, Huaral ,10, Santa Cruz de Andamarca
+15, Lima,06, Huaral ,11, Sumbilca
+15, Lima,06, Huaral ,12, Veintisiete de Noviembre
+15, Lima,07, Huarochirí ,01, Matucana
+15, Lima,07, Huarochirí ,02, Antioquia
+15, Lima,07, Huarochirí ,03, Callahuanca
+15, Lima,07, Huarochirí ,04, Carampoma
+15, Lima,07, Huarochirí ,05, Chicla
+15, Lima,07, Huarochirí ,06, Cuenca
+15, Lima,07, Huarochirí ,07, Huachupampa
+15, Lima,07, Huarochirí ,08, Huanza
+15, Lima,07, Huarochirí ,09, Huarochiri
+15, Lima,07, Huarochirí ,10, Lahuaytambo
+15, Lima,07, Huarochirí ,11, Langa
+15, Lima,07, Huarochirí ,12, Laraos
+15, Lima,07, Huarochirí ,13, Mariatana
+15, Lima,07, Huarochirí ,14, Ricardo Palma
+15, Lima,07, Huarochirí ,15, San Andrés de Tupicocha
+15, Lima,07, Huarochirí ,16, San Antonio
+15, Lima,07, Huarochirí ,17, San Bartolomé
+15, Lima,07, Huarochirí ,18, San Damian
+15, Lima,07, Huarochirí ,19, San Juan de Iris
+15, Lima,07, Huarochirí ,20, San Juan de Tantaranche
+15, Lima,07, Huarochirí ,21, San Lorenzo de Quinti
+15, Lima,07, Huarochirí ,22, San Mateo
+15, Lima,07, Huarochirí ,23, San Mateo de Otao
+15, Lima,07, Huarochirí ,24, San Pedro de Casta
+15, Lima,07, Huarochirí ,25, San Pedro de Huancayre
+15, Lima,07, Huarochirí ,26, Sangallaya
+15, Lima,07, Huarochirí ,27, Santa Cruz de Cocachacra
+15, Lima,07, Huarochirí ,28, Santa Eulalia
+15, Lima,07, Huarochirí ,29, Santiago de Anchucaya
+15, Lima,07, Huarochirí ,30, Santiago de Tuna
+15, Lima,07, Huarochirí ,31, Santo Domingo de Los Olleros
+15, Lima,07, Huarochirí ,32, Surco
+15, Lima,08, Huaura ,01, Huacho
+15, Lima,08, Huaura ,02, Ambar
+15, Lima,08, Huaura ,03, Caleta de Carquin
+15, Lima,08, Huaura ,04, Checras
+15, Lima,08, Huaura ,05, Hualmay
+15, Lima,08, Huaura ,06, Huaura
+15, Lima,08, Huaura ,07, Leoncio Prado
+15, Lima,08, Huaura ,08, Paccho
+15, Lima,08, Huaura ,09, Santa Leonor
+15, Lima,08, Huaura ,10, Santa María
+15, Lima,08, Huaura ,11, Sayan
+15, Lima,08, Huaura ,12, Vegueta
+15, Lima,09, Oyón ,01, Oyon
+15, Lima,09, Oyón ,02, Andajes
+15, Lima,09, Oyón ,03, Caujul
+15, Lima,09, Oyón ,04, Cochamarca
+15, Lima,09, Oyón ,05, Navan
+15, Lima,09, Oyón ,06, Pachangara
+15, Lima,10, Yauyos ,01, Yauyos
+15, Lima,10, Yauyos ,02, Alis
+15, Lima,10, Yauyos ,03, Allauca
+15, Lima,10, Yauyos ,04, Ayaviri
+15, Lima,10, Yauyos ,05, Azángaro
+15, Lima,10, Yauyos ,06, Cacra
+15, Lima,10, Yauyos ,07, Carania
+15, Lima,10, Yauyos ,08, Catahuasi
+15, Lima,10, Yauyos ,09, Chocos
+15, Lima,10, Yauyos ,10, Cochas
+15, Lima,10, Yauyos ,11, Colonia
+15, Lima,10, Yauyos ,12, Hongos
+15, Lima,10, Yauyos ,13, Huampara
+15, Lima,10, Yauyos ,14, Huancaya
+15, Lima,10, Yauyos ,15, Huangascar
+15, Lima,10, Yauyos ,16, Huantan
+15, Lima,10, Yauyos ,17, Huañec
+15, Lima,10, Yauyos ,18, Laraos
+15, Lima,10, Yauyos ,19, Lincha
+15, Lima,10, Yauyos ,20, Madean
+15, Lima,10, Yauyos ,21, Miraflores
+15, Lima,10, Yauyos ,22, Omas
+15, Lima,10, Yauyos ,23, Putinza
+15, Lima,10, Yauyos ,24, Quinches
+15, Lima,10, Yauyos ,25, Quinocay
+15, Lima,10, Yauyos ,26, San Joaquín
+15, Lima,10, Yauyos ,27, San Pedro de Pilas
+15, Lima,10, Yauyos ,28, Tanta
+15, Lima,10, Yauyos ,29, Tauripampa
+15, Lima,10, Yauyos ,30, Tomas
+15, Lima,10, Yauyos ,31, Tupe
+15, Lima,10, Yauyos ,32, Viñac
+15, Lima,10, Yauyos ,33, Vitis
+16, Loreto,01, Maynas ,01, Iquitos
+16, Loreto,01, Maynas ,02, Alto Nanay
+16, Loreto,01, Maynas ,03, Fernando Lores
+16, Loreto,01, Maynas ,04, Indiana
+16, Loreto,01, Maynas ,05, Las Amazonas
+16, Loreto,01, Maynas ,06, Mazan
+16, Loreto,01, Maynas ,07, Napo
+16, Loreto,01, Maynas ,08, Punchana
+16, Loreto,01, Maynas ,10, Torres Causana
+16, Loreto,01, Maynas ,12, Belén
+16, Loreto,01, Maynas ,13, San Juan Bautista
+16, Loreto,02, Alto Amazonas ,01, Yurimaguas
+16, Loreto,02, Alto Amazonas ,02, Balsapuerto
+16, Loreto,02, Alto Amazonas ,05, Jeberos
+16, Loreto,02, Alto Amazonas ,06, Lagunas
+16, Loreto,02, Alto Amazonas ,10, Santa Cruz
+16, Loreto,02, Alto Amazonas ,11, Teniente Cesar López Rojas
+16, Loreto,03, Loreto ,01, Nauta
+16, Loreto,03, Loreto ,02, Parinari
+16, Loreto,03, Loreto ,03, Tigre
+16, Loreto,03, Loreto ,04, Trompeteros
+16, Loreto,03, Loreto ,05, Urarinas
+16, Loreto,04, Mariscal Ramón Castilla ,01, Ramón Castilla
+16, Loreto,04, Mariscal Ramón Castilla ,02, Pebas
+16, Loreto,04, Mariscal Ramón Castilla ,03, Yavari
+16, Loreto,04, Mariscal Ramón Castilla ,04, San Pablo
+16, Loreto,04, Mariscal Ramón Castilla ,05, Santa Rosa de Loreto
+16, Loreto,05, Requena ,01, Requena
+16, Loreto,05, Requena ,02, Alto Tapiche
+16, Loreto,05, Requena ,03, Capelo
+16, Loreto,05, Requena ,04, Emilio San Martín
+16, Loreto,05, Requena ,05, Maquia
+16, Loreto,05, Requena ,06, Puinahua
+16, Loreto,05, Requena ,07, Saquena
+16, Loreto,05, Requena ,08, Soplin
+16, Loreto,05, Requena ,09, Tapiche
+16, Loreto,05, Requena ,10, Jenaro Herrera
+16, Loreto,05, Requena ,11, Yaquerana
+16, Loreto,06, Ucayali ,01, Contamana
+16, Loreto,06, Ucayali ,02, Inahuaya
+16, Loreto,06, Ucayali ,03, Padre Márquez
+16, Loreto,06, Ucayali ,04, Pampa Hermosa
+16, Loreto,06, Ucayali ,05, Sarayacu
+16, Loreto,06, Ucayali ,06, Vargas Guerra
+16, Loreto,07, Datem del Marañón ,01, Barranca
+16, Loreto,07, Datem del Marañón ,02, Cahuapanas
+16, Loreto,07, Datem del Marañón ,03, Manseriche
+16, Loreto,07, Datem del Marañón ,04, Morona
+16, Loreto,07, Datem del Marañón ,05, Pastaza
+16, Loreto,07, Datem del Marañón ,06, Andoas
+16, Loreto,08, Putumayo,01, Putumayo
+16, Loreto,08, Putumayo,02, Rosa Panduro
+16, Loreto,08, Putumayo,03, Teniente Manuel Clavero
+16, Loreto,08, Putumayo,04, Yaguas
+17, Madre de Dios,01, Tambopata ,01, Tambopata
+17, Madre de Dios,01, Tambopata ,02, Inambari
+17, Madre de Dios,01, Tambopata ,03, Las Piedras
+17, Madre de Dios,01, Tambopata ,04, Laberinto
+17, Madre de Dios,02, Manu ,01, Manu
+17, Madre de Dios,02, Manu ,02, Fitzcarrald
+17, Madre de Dios,02, Manu ,03, Madre de Dios
+17, Madre de Dios,02, Manu ,04, Huepetuhe
+17, Madre de Dios,03, Tahuamanu ,01, Iñapari
+17, Madre de Dios,03, Tahuamanu ,02, Iberia
+17, Madre de Dios,03, Tahuamanu ,03, Tahuamanu
+18, Moquegua,01, Mariscal Nieto ,01, Moquegua
+18, Moquegua,01, Mariscal Nieto ,02, Carumas
+18, Moquegua,01, Mariscal Nieto ,03, Cuchumbaya
+18, Moquegua,01, Mariscal Nieto ,04, Samegua
+18, Moquegua,01, Mariscal Nieto ,05, San Cristóbal
+18, Moquegua,01, Mariscal Nieto ,06, Torata
+18, Moquegua,01, Mariscal Nieto ,07, San Antonio
+18, Moquegua,02, General Sánchez Cerro ,01, Omate
+18, Moquegua,02, General Sánchez Cerro ,02, Chojata
+18, Moquegua,02, General Sánchez Cerro ,03, Coalaque
+18, Moquegua,02, General Sánchez Cerro ,04, Ichuña
+18, Moquegua,02, General Sánchez Cerro ,05, La Capilla
+18, Moquegua,02, General Sánchez Cerro ,06, Lloque
+18, Moquegua,02, General Sánchez Cerro ,07, Matalaque
+18, Moquegua,02, General Sánchez Cerro ,08, Puquina
+18, Moquegua,02, General Sánchez Cerro ,09, Quinistaquillas
+18, Moquegua,02, General Sánchez Cerro ,10, Ubinas
+18, Moquegua,02, General Sánchez Cerro ,11, Yunga
+18, Moquegua,03, Ilo ,01, Ilo
+18, Moquegua,03, Ilo ,02, El Algarrobal
+18, Moquegua,03, Ilo ,03, Pacocha
+19, Pasco,01, Pasco ,01, Chaupimarca
+19, Pasco,01, Pasco ,02, Huachon
+19, Pasco,01, Pasco ,03, Huariaca
+19, Pasco,01, Pasco ,04, Huayllay
+19, Pasco,01, Pasco ,05, Ninacaca
+19, Pasco,01, Pasco ,06, Pallanchacra
+19, Pasco,01, Pasco ,07, Paucartambo
+19, Pasco,01, Pasco ,08, San Francisco de Asís de Yarusyacan
+19, Pasco,01, Pasco ,09, Simon Bolívar
+19, Pasco,01, Pasco ,10, Ticlacayan
+19, Pasco,01, Pasco ,11, Tinyahuarco
+19, Pasco,01, Pasco ,12, Vicco
+19, Pasco,01, Pasco ,13, Yanacancha
+19, Pasco,02, Daniel Alcides Carrión ,01, Yanahuanca
+19, Pasco,02, Daniel Alcides Carrión ,02, Chacayan
+19, Pasco,02, Daniel Alcides Carrión ,03, Goyllarisquizga
+19, Pasco,02, Daniel Alcides Carrión ,04, Paucar
+19, Pasco,02, Daniel Alcides Carrión ,05, San Pedro de Pillao
+19, Pasco,02, Daniel Alcides Carrión ,06, Santa Ana de Tusi
+19, Pasco,02, Daniel Alcides Carrión ,07, Tapuc
+19, Pasco,02, Daniel Alcides Carrión ,08, Vilcabamba
+19, Pasco,03, Oxapampa ,01, Oxapampa
+19, Pasco,03, Oxapampa ,02, Chontabamba
+19, Pasco,03, Oxapampa ,03, Huancabamba
+19, Pasco,03, Oxapampa ,04, Palcazu
+19, Pasco,03, Oxapampa ,05, Pozuzo
+19, Pasco,03, Oxapampa ,06, Puerto Bermúdez
+19, Pasco,03, Oxapampa ,07, Villa Rica
+19, Pasco,03, Oxapampa ,08, Constitución
+20, Piura,01, Piura ,01, Piura
+20, Piura,01, Piura ,04, Castilla
+20, Piura,01, Piura ,05, Catacaos
+20, Piura,01, Piura ,07, Cura Mori
+20, Piura,01, Piura ,08, El Tallan
+20, Piura,01, Piura ,09, La Arena
+20, Piura,01, Piura ,10, La Unión
+20, Piura,01, Piura ,11, Las Lomas
+20, Piura,01, Piura ,14, Tambo Grande
+20, Piura,01, Piura ,15, Veintiseis de Octubre
+20, Piura,02, Ayabaca ,01, Ayabaca
+20, Piura,02, Ayabaca ,02, Frias
+20, Piura,02, Ayabaca ,03, Jilili
+20, Piura,02, Ayabaca ,04, Lagunas
+20, Piura,02, Ayabaca ,05, Montero
+20, Piura,02, Ayabaca ,06, Pacaipampa
+20, Piura,02, Ayabaca ,07, Paimas
+20, Piura,02, Ayabaca ,08, Sapillica
+20, Piura,02, Ayabaca ,09, Sicchez
+20, Piura,02, Ayabaca ,10, Suyo
+20, Piura,03, Huancabamba ,01, Huancabamba
+20, Piura,03, Huancabamba ,02, Canchaque
+20, Piura,03, Huancabamba ,03, El Carmen de la Frontera
+20, Piura,03, Huancabamba ,04, Huarmaca
+20, Piura,03, Huancabamba ,05, Lalaquiz
+20, Piura,03, Huancabamba ,06, San Miguel de El Faique
+20, Piura,03, Huancabamba ,07, Sondor
+20, Piura,03, Huancabamba ,08, Sondorillo
+20, Piura,04, Morropón ,01, Chulucanas
+20, Piura,04, Morropón ,02, Buenos Aires
+20, Piura,04, Morropón ,03, Chalaco
+20, Piura,04, Morropón ,04, La Matanza
+20, Piura,04, Morropón ,05, Morropon
+20, Piura,04, Morropón ,06, Salitral
+20, Piura,04, Morropón ,07, San Juan de Bigote
+20, Piura,04, Morropón ,08, Santa Catalina de Mossa
+20, Piura,04, Morropón ,09, Santo Domingo
+20, Piura,04, Morropón ,10, Yamango
+20, Piura,05, Paita ,01, Paita
+20, Piura,05, Paita ,02, Amotape
+20, Piura,05, Paita ,03, Arenal
+20, Piura,05, Paita ,04, Colan
+20, Piura,05, Paita ,05, La Huaca
+20, Piura,05, Paita ,06, Tamarindo
+20, Piura,05, Paita ,07, Vichayal
+20, Piura,06, Sullana ,01, Sullana
+20, Piura,06, Sullana ,02, Bellavista
+20, Piura,06, Sullana ,03, Ignacio Escudero
+20, Piura,06, Sullana ,04, Lancones
+20, Piura,06, Sullana ,05, Marcavelica
+20, Piura,06, Sullana ,06, Miguel Checa
+20, Piura,06, Sullana ,07, Querecotillo
+20, Piura,06, Sullana ,08, Salitral
+20, Piura,07, Talara ,01, Pariñas
+20, Piura,07, Talara ,02, El Alto
+20, Piura,07, Talara ,03, La Brea
+20, Piura,07, Talara ,04, Lobitos
+20, Piura,07, Talara ,05, Los Organos
+20, Piura,07, Talara ,06, Mancora
+20, Piura,08, Sechura ,01, Sechura
+20, Piura,08, Sechura ,02, Bellavista de la Unión
+20, Piura,08, Sechura ,03, Bernal
+20, Piura,08, Sechura ,04, Cristo Nos Valga
+20, Piura,08, Sechura ,05, Vice
+20, Piura,08, Sechura ,06, Rinconada Llicuar
+21, Puno,01, Puno ,01, Puno
+21, Puno,01, Puno ,02, Acora
+21, Puno,01, Puno ,03, Amantani
+21, Puno,01, Puno ,04, Atuncolla
+21, Puno,01, Puno ,05, Capachica
+21, Puno,01, Puno ,06, Chucuito
+21, Puno,01, Puno ,07, Coata
+21, Puno,01, Puno ,08, Huata
+21, Puno,01, Puno ,09, Mañazo
+21, Puno,01, Puno ,10, Paucarcolla
+21, Puno,01, Puno ,11, Pichacani
+21, Puno,01, Puno ,12, Plateria
+21, Puno,01, Puno ,13, San Antonio
+21, Puno,01, Puno ,14, Tiquillaca
+21, Puno,01, Puno ,15, Vilque
+21, Puno,02, Azángaro ,01, Azángaro
+21, Puno,02, Azángaro ,02, Achaya
+21, Puno,02, Azángaro ,03, Arapa
+21, Puno,02, Azángaro ,04, Asillo
+21, Puno,02, Azángaro ,05, Caminaca
+21, Puno,02, Azángaro ,06, Chupa
+21, Puno,02, Azángaro ,07, José Domingo Choquehuanca
+21, Puno,02, Azángaro ,08, Muñani
+21, Puno,02, Azángaro ,09, Potoni
+21, Puno,02, Azángaro ,10, Saman
+21, Puno,02, Azángaro ,11, San Anton
+21, Puno,02, Azángaro ,12, San José
+21, Puno,02, Azángaro ,13, San Juan de Salinas
+21, Puno,02, Azángaro ,14, Santiago de Pupuja
+21, Puno,02, Azángaro ,15, Tirapata
+21, Puno,03, Carabaya ,01, Macusani
+21, Puno,03, Carabaya ,02, Ajoyani
+21, Puno,03, Carabaya ,03, Ayapata
+21, Puno,03, Carabaya ,04, Coasa
+21, Puno,03, Carabaya ,05, Corani
+21, Puno,03, Carabaya ,06, Crucero
+21, Puno,03, Carabaya ,07, Ituata
+21, Puno,03, Carabaya ,08, Ollachea
+21, Puno,03, Carabaya ,09, San Gaban
+21, Puno,03, Carabaya ,10, Usicayos
+21, Puno,04, Chucuito ,01, Juli
+21, Puno,04, Chucuito ,02, Desaguadero
+21, Puno,04, Chucuito ,03, Huacullani
+21, Puno,04, Chucuito ,04, Kelluyo
+21, Puno,04, Chucuito ,05, Pisacoma
+21, Puno,04, Chucuito ,06, Pomata
+21, Puno,04, Chucuito ,07, Zepita
+21, Puno,05, El Collao ,01, Ilave
+21, Puno,05, El Collao ,02, Capazo
+21, Puno,05, El Collao ,03, Pilcuyo
+21, Puno,05, El Collao ,04, Santa Rosa
+21, Puno,05, El Collao ,05, Conduriri
+21, Puno,06, Huancané ,01, Huancane
+21, Puno,06, Huancané ,02, Cojata
+21, Puno,06, Huancané ,03, Huatasani
+21, Puno,06, Huancané ,04, Inchupalla
+21, Puno,06, Huancané ,05, Pusi
+21, Puno,06, Huancané ,06, Rosaspata
+21, Puno,06, Huancané ,07, Taraco
+21, Puno,06, Huancané ,08, Vilque Chico
+21, Puno,07, Lampa ,01, Lampa
+21, Puno,07, Lampa ,02, Cabanilla
+21, Puno,07, Lampa ,03, Calapuja
+21, Puno,07, Lampa ,04, Nicasio
+21, Puno,07, Lampa ,05, Ocuviri
+21, Puno,07, Lampa ,06, Palca
+21, Puno,07, Lampa ,07, Paratia
+21, Puno,07, Lampa ,08, Pucara
+21, Puno,07, Lampa ,09, Santa Lucia
+21, Puno,07, Lampa ,10, Vilavila
+21, Puno,08, Melgar ,01, Ayaviri
+21, Puno,08, Melgar ,02, Antauta
+21, Puno,08, Melgar ,03, Cupi
+21, Puno,08, Melgar ,04, Llalli
+21, Puno,08, Melgar ,05, Macari
+21, Puno,08, Melgar ,06, Nuñoa
+21, Puno,08, Melgar ,07, Orurillo
+21, Puno,08, Melgar ,08, Santa Rosa
+21, Puno,08, Melgar ,09, Umachiri
+21, Puno,09, Moho ,01, Moho
+21, Puno,09, Moho ,02, Conima
+21, Puno,09, Moho ,03, Huayrapata
+21, Puno,09, Moho ,04, Tilali
+21, Puno,10, San Antonio de Putina ,01, Putina
+21, Puno,10, San Antonio de Putina ,02, Ananea
+21, Puno,10, San Antonio de Putina ,03, Pedro Vilca Apaza
+21, Puno,10, San Antonio de Putina ,04, Quilcapuncu
+21, Puno,10, San Antonio de Putina ,05, Sina
+21, Puno,11, San Román ,01, Juliaca
+21, Puno,11, San Román ,02, Cabana
+21, Puno,11, San Román ,03, Cabanillas
+21, Puno,11, San Román ,04, Caracoto
+21, Puno,11, San Román ,05, San Miguel
+21, Puno,12, Sandia ,01, Sandia
+21, Puno,12, Sandia ,02, Cuyocuyo
+21, Puno,12, Sandia ,03, Limbani
+21, Puno,12, Sandia ,04, Patambuco
+21, Puno,12, Sandia ,05, Phara
+21, Puno,12, Sandia ,06, Quiaca
+21, Puno,12, Sandia ,07, San Juan del Oro
+21, Puno,12, Sandia ,08, Yanahuaya
+21, Puno,12, Sandia ,09, Alto Inambari
+21, Puno,12, Sandia ,10, San Pedro de Putina Punco
+21, Puno,13, Yunguyo ,01, Yunguyo
+21, Puno,13, Yunguyo ,02, Anapia
+21, Puno,13, Yunguyo ,03, Copani
+21, Puno,13, Yunguyo ,04, Cuturapi
+21, Puno,13, Yunguyo ,05, Ollaraya
+21, Puno,13, Yunguyo ,06, Tinicachi
+21, Puno,13, Yunguyo ,07, Unicachi
+22, San Martín,01, Moyobamba ,01, Moyobamba
+22, San Martín,01, Moyobamba ,02, Calzada
+22, San Martín,01, Moyobamba ,03, Habana
+22, San Martín,01, Moyobamba ,04, Jepelacio
+22, San Martín,01, Moyobamba ,05, Soritor
+22, San Martín,01, Moyobamba ,06, Yantalo
+22, San Martín,02, Bellavista ,01, Bellavista
+22, San Martín,02, Bellavista ,02, Alto Biavo
+22, San Martín,02, Bellavista ,03, Bajo Biavo
+22, San Martín,02, Bellavista ,04, Huallaga
+22, San Martín,02, Bellavista ,05, San Pablo
+22, San Martín,02, Bellavista ,06, San Rafael
+22, San Martín,03, El Dorado ,01, San José de Sisa
+22, San Martín,03, El Dorado ,02, Agua Blanca
+22, San Martín,03, El Dorado ,03, San Martín
+22, San Martín,03, El Dorado ,04, Santa Rosa
+22, San Martín,03, El Dorado ,05, Shatoja
+22, San Martín,04, Huallaga ,01, Saposoa
+22, San Martín,04, Huallaga ,02, Alto Saposoa
+22, San Martín,04, Huallaga ,03, El Eslabón
+22, San Martín,04, Huallaga ,04, Piscoyacu
+22, San Martín,04, Huallaga ,05, Sacanche
+22, San Martín,04, Huallaga ,06, Tingo de Saposoa
+22, San Martín,05, Lamas ,01, Lamas
+22, San Martín,05, Lamas ,02, Alonso de Alvarado
+22, San Martín,05, Lamas ,03, Barranquita
+22, San Martín,05, Lamas ,04, Caynarachi
+22, San Martín,05, Lamas ,05, Cuñumbuqui
+22, San Martín,05, Lamas ,06, Pinto Recodo
+22, San Martín,05, Lamas ,07, Rumisapa
+22, San Martín,05, Lamas ,08, San Roque de Cumbaza
+22, San Martín,05, Lamas ,09, Shanao
+22, San Martín,05, Lamas ,10, Tabalosos
+22, San Martín,05, Lamas ,11, Zapatero
+22, San Martín,06, Mariscal Cáceres ,01, Juanjuí
+22, San Martín,06, Mariscal Cáceres ,02, Campanilla
+22, San Martín,06, Mariscal Cáceres ,03, Huicungo
+22, San Martín,06, Mariscal Cáceres ,04, Pachiza
+22, San Martín,06, Mariscal Cáceres ,05, Pajarillo
+22, San Martín,07, Picota ,01, Picota
+22, San Martín,07, Picota ,02, Buenos Aires
+22, San Martín,07, Picota ,03, Caspisapa
+22, San Martín,07, Picota ,04, Pilluana
+22, San Martín,07, Picota ,05, Pucacaca
+22, San Martín,07, Picota ,06, San Cristóbal
+22, San Martín,07, Picota ,07, San Hilarión
+22, San Martín,07, Picota ,08, Shamboyacu
+22, San Martín,07, Picota ,09, Tingo de Ponasa
+22, San Martín,07, Picota ,10, Tres Unidos
+22, San Martín,08, Rioja ,01, Rioja
+22, San Martín,08, Rioja ,02, Awajun
+22, San Martín,08, Rioja ,03, Elías Soplin Vargas
+22, San Martín,08, Rioja ,04, Nueva Cajamarca
+22, San Martín,08, Rioja ,05, Pardo Miguel
+22, San Martín,08, Rioja ,06, Posic
+22, San Martín,08, Rioja ,07, San Fernando
+22, San Martín,08, Rioja ,08, Yorongos
+22, San Martín,08, Rioja ,09, Yuracyacu
+22, San Martín,09, San Martín ,01, Tarapoto
+22, San Martín,09, San Martín ,02, Alberto Leveau
+22, San Martín,09, San Martín ,03, Cacatachi
+22, San Martín,09, San Martín ,04, Chazuta
+22, San Martín,09, San Martín ,05, Chipurana
+22, San Martín,09, San Martín ,06, El Porvenir
+22, San Martín,09, San Martín ,07, Huimbayoc
+22, San Martín,09, San Martín ,08, Juan Guerra
+22, San Martín,09, San Martín ,09, La Banda de Shilcayo
+22, San Martín,09, San Martín ,10, Morales
+22, San Martín,09, San Martín ,11, Papaplaya
+22, San Martín,09, San Martín ,12, San Antonio
+22, San Martín,09, San Martín ,13, Sauce
+22, San Martín,09, San Martín ,14, Shapaja
+22, San Martín,10, Tocache ,01, Tocache
+22, San Martín,10, Tocache ,02, Nuevo Progreso
+22, San Martín,10, Tocache ,03, Polvora
+22, San Martín,10, Tocache ,04, Shunte
+22, San Martín,10, Tocache ,05, Uchiza
+22, San Martín,10, Tocache ,06, Santa Lucia
+23, Tacna,01, Tacna ,01, Tacna
+23, Tacna,01, Tacna ,02, Alto de la Alianza
+23, Tacna,01, Tacna ,03, Calana
+23, Tacna,01, Tacna ,04, Ciudad Nueva
+23, Tacna,01, Tacna ,05, Inclan
+23, Tacna,01, Tacna ,06, Pachia
+23, Tacna,01, Tacna ,07, Palca
+23, Tacna,01, Tacna ,08, Pocollay
+23, Tacna,01, Tacna ,09, Sama
+23, Tacna,01, Tacna ,10, Coronel Gregorio Albarracín Lanchipa
+23, Tacna,01, Tacna ,11, La Yarada los Palos
+23, Tacna,02, Candarave ,01, Candarave
+23, Tacna,02, Candarave ,02, Cairani
+23, Tacna,02, Candarave ,03, Camilaca
+23, Tacna,02, Candarave ,04, Curibaya
+23, Tacna,02, Candarave ,05, Huanuara
+23, Tacna,02, Candarave ,06, Quilahuani
+23, Tacna,03, Jorge Basadre ,01, Locumba
+23, Tacna,03, Jorge Basadre ,02, Ilabaya
+23, Tacna,03, Jorge Basadre ,03, Ite
+23, Tacna,04, Tarata ,01, Tarata
+23, Tacna,04, Tarata ,02, Héroes Albarracín
+23, Tacna,04, Tarata ,03, Estique
+23, Tacna,04, Tarata ,04, Estique-Pampa
+23, Tacna,04, Tarata ,05, Sitajara
+23, Tacna,04, Tarata ,06, Susapaya
+23, Tacna,04, Tarata ,07, Tarucachi
+23, Tacna,04, Tarata ,08, Ticaco
+24, Tumbes,01, Tumbes ,01, Tumbes
+24, Tumbes,01, Tumbes ,02, Corrales
+24, Tumbes,01, Tumbes ,03, La Cruz
+24, Tumbes,01, Tumbes ,04, Pampas de Hospital
+24, Tumbes,01, Tumbes ,05, San Jacinto
+24, Tumbes,01, Tumbes ,06, San Juan de la Virgen
+24, Tumbes,02, Contralmirante Villar ,01, Zorritos
+24, Tumbes,02, Contralmirante Villar ,02, Casitas
+24, Tumbes,02, Contralmirante Villar ,03, Canoas de Punta Sal
+24, Tumbes,03, Zarumilla ,01, Zarumilla
+24, Tumbes,03, Zarumilla ,02, Aguas Verdes
+24, Tumbes,03, Zarumilla ,03, Matapalo
+24, Tumbes,03, Zarumilla ,04, Papayal
+25, Ucayali,01, Coronel Portillo ,01, Calleria
+25, Ucayali,01, Coronel Portillo ,02, Campoverde
+25, Ucayali,01, Coronel Portillo ,03, Iparia
+25, Ucayali,01, Coronel Portillo ,04, Masisea
+25, Ucayali,01, Coronel Portillo ,05, Yarinacocha
+25, Ucayali,01, Coronel Portillo ,06, Nueva Requena
+25, Ucayali,01, Coronel Portillo ,07, Manantay
+25, Ucayali,02, Atalaya ,01, Raymondi
+25, Ucayali,02, Atalaya ,02, Sepahua
+25, Ucayali,02, Atalaya ,03, Tahuania
+25, Ucayali,02, Atalaya ,04, Yurua
+25, Ucayali,03, Padre Abad ,01, Padre Abad
+25, Ucayali,03, Padre Abad ,02, Irazola
+25, Ucayali,03, Padre Abad ,03, Curimana
+25, Ucayali,03, Padre Abad ,04, Neshuya
+25, Ucayali,03, Padre Abad ,05, Alexander Von Humboldt
+25, Ucayali,03, Padre Abad ,06, Huipoca
+25, Ucayali,03, Padre Abad ,07, Boqueron
+25, Ucayali,04, Purús,01, Purus

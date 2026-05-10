@@ -1,0 +1,8 @@
+# Datos pesados
+BD_2020-2025.csv
+*.parquet
+base_modelado_particionado/
+# Archivos de entorno
+.venv/
+__pycache__/
+.ipynb_checkpoints/
