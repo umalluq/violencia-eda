@@ -61,6 +61,30 @@ Los targets han sido estandarizados a una codificación base 0 (0, 1, 2) para co
 - Exclusión de registros y variables vinculadas a violencia economica para el escenario actual de modelado (muestra no representativa para esta etapa).
 - Filtro de baja varianza optimizado para evitar sobrecarga de RAM.
 
+## Metodología de Selección de Características (Híbrida)
+
+Para identificar las variables más predictivas y reducir la dimensionalidad del dataset (~130 features), se implementó un enfoque multimetodo que combina tres familias de algoritmos:
+
+### 1. Métodos de Filtro (Filters)
+Evalúan la relevancia de las variables independientemente de cualquier modelo:
+- **Cramér's V (Asociación Categórica):** Mide la fuerza de asociación entre variables categóricas y el target (basado en Chi-cuadrado).
+- **Información Mutua (Mutual Information):** Captura dependencias no lineales y mide cuánta información comparte cada variable con el target.
+
+### 2. Métodos Integrados (Embedded)
+La selección ocurre durante el entrenamiento del algoritmo:
+- **Random Forest Importance:** Utiliza la reducción de impureza de Gini para rankear variables basándose en su capacidad de partición.
+
+### 3. Métodos Envolventes (Wrappers) e Inspección
+Evalúan subconjuntos de variables mediante modelos iterativos:
+- **Permutation Importance:** Mide el impacto en el desempeño del modelo (F1-Macro) al permutar aleatoriamente los valores de cada variable.
+- **RFECV (Recursive Feature Elimination with CV):** Elimina recursivamente las variables menos importantes validando el tamaño óptimo del subconjunto mediante validación cruzada.
+
+### Consenso y Ranking Final
+Se calcula un **Score de Consenso** normalizando los resultados de todos los métodos con los siguientes pesos:
+- `Mutual Information (25%)` + `RF Importance (25%)` + `Permutation Importance (20%)` + `Cramér's V (20%)` + `RFECV (10%)`.
+
+Este enfoque garantiza que las variables seleccionadas no solo tengan poder predictivo individual, sino que también contribuyan de forma robusta al desempeño global del modelo, evitando variables redundantes o con fugas de información.
+
 ## Salidas generadas
 
 Dependiendo de la ejecucion de notebooks, se generan archivos como:
