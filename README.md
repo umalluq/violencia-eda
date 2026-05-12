@@ -22,6 +22,12 @@ Construir una base analitica limpia en formato Parquet y un analisis estadistico
 - `analisis_estadistico_y_features.ipynb`  
   Analisis estadistico con graficos (crosstab, distribucion geografica, serie temporal) y ranking inicial de features por target.
 
+- `seleccion_caracteristicas_multimetodo.ipynb`  
+  Notebook optimizado para seleccion de caracteristicas mediante un enfoque multimetodo (Cramers V, Mutual Information, RF Importance, Permutation Importance y RFECV) con muestreo estratificado para eficiencia de RAM.
+
+- `metodologia de seleccion de caracteristicas.md`  
+  Documentacion detallada del enfoque multimetodo y los pesos de consenso aplicados.
+
 - `ubigeo_trabajar.csv`  
   Maestro UBIGEO usado para construir `ubigeo_codigo` y `ubigeo_nombre`.
 
@@ -30,18 +36,19 @@ Construir una base analitica limpia en formato Parquet y un analisis estadistico
 
 ## Definicion de targets
 
+Los targets han sido estandarizados a una codificación base 0 (0, 1, 2) para compatibilidad con algoritmos de modelado como XGBoost. Se excluyó la categoría "Económica" por baja representatividad.
+
 ### 1) `tipo_violencia`
 
-- `0`: Economica
-- `1`: Psicologica
-- `2`: Fisica
-- `3`: Sexual
+- `0`: Psicologica
+- `1`: Fisica
+- `2`: Sexual
 
 ### 2) `nivel_riesgo_victima`
 
-- `1`: Bajo
-- `2`: Medio
-- `3`: Alto
+- `0`: Bajo
+- `1`: Medio
+- `2`: Alto
 
 ## Decisiones metodologicas clave
 

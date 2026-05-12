@@ -201,6 +201,18 @@ def remove_economic_domain(df: pd.DataFrame) -> tuple[pd.DataFrame, list[str], i
     return out, econ_cols, (n0 - len(out))
 
 
+def recode_targets_zero_based(df: pd.DataFrame) -> pd.DataFrame:
+    out = df.copy()
+    if "tipo_violencia" in out.columns:
+        out["tipo_violencia_orig"] = pd.to_numeric(out["tipo_violencia"], errors="coerce")
+        out["tipo_violencia"] = out["tipo_violencia_orig"].map({1: 0, 2: 1, 3: 2})
+
+    if "nivel_riesgo_victima" in out.columns:
+        out["nivel_riesgo_victima_orig"] = pd.to_numeric(out["nivel_riesgo_victima"], errors="coerce")
+        out["nivel_riesgo_victima"] = out["nivel_riesgo_victima_orig"] - 1
+    return out
+
+
 def align_to_base_schema(new_df: pd.DataFrame, base_df: pd.DataFrame) -> pd.DataFrame:
     out = new_df.copy()
     base_cols = list(base_df.columns)
@@ -237,6 +249,8 @@ def main() -> None:
 
     if "nivel_de_riesgo_victima" in df.columns and "nivel_riesgo_victima" not in df.columns:
         df = df.rename(columns={"nivel_de_riesgo_victima": "nivel_riesgo_victima"})
+
+    df = recode_targets_zero_based(df)
 
     if args.base_parquet and Path(args.base_parquet).exists():
         base = pd.read_parquet(args.base_parquet)
