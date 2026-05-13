@@ -25,6 +25,9 @@ Construir una base analitica limpia en formato Parquet y un analisis estadistico
 - `seleccion_caracteristicas_multimetodo.ipynb`  
   Notebook optimizado para seleccion de caracteristicas mediante un enfoque multimetodo (Cramers V, Mutual Information, RF Importance, Permutation Importance y RFECV) con muestreo estratificado para eficiencia de RAM.
 
+- `seleccion_caracteristicas_multimetodo_FULL.ipynb`  
+  Version estructurada por target con explicacion metodologica en Markdown, tabla Top 30 en formato Markdown, grafico de ranking final y exportables CSV por metodo.
+
 - `metodologia de seleccion de caracteristicas.md`  
   Documentacion detallada del enfoque multimetodo y los pesos de consenso aplicados.
 
@@ -76,7 +79,7 @@ La selección ocurre durante el entrenamiento del algoritmo:
 
 ### 3. Métodos Envolventes (Wrappers) e Inspección
 Evalúan subconjuntos de variables mediante modelos iterativos:
-- **Permutation Importance:** Mide el impacto en el desempeño del modelo (F1-Macro) al permutar aleatoriamente los valores de cada variable.
+- **Permutation Importance:** Mide el impacto en el desempeño del modelo (F1-Macro) al desordenar aleatoriamente una variable en el set de prueba. Si el score cae mucho, esa variable era importante porque el modelo dependía de ella.
 - **RFECV (Recursive Feature Elimination with CV):** Elimina recursivamente las variables menos importantes validando el tamaño óptimo del subconjunto mediante validación cruzada.
 
 ### Consenso y Ranking Final
@@ -84,6 +87,11 @@ Se calcula un **Score de Consenso** normalizando los resultados de todos los mé
 - `Mutual Information (25%)` + `RF Importance (25%)` + `Permutation Importance (20%)` + `Cramér's V (20%)` + `RFECV (10%)`.
 
 Este enfoque garantiza que las variables seleccionadas no solo tengan poder predictivo individual, sino que también contribuyan de forma robusta al desempeño global del modelo, evitando variables redundantes o con fugas de información.
+
+### Configuracion recomendada para RAM limitada
+- Usar `SAMPLE_SIZE=100000` como equilibrio entre estabilidad del ranking y costo computacional.
+- Usar `SAMPLE_SIZE=50000` para pruebas rapidas y ajuste de pipeline.
+- Para resultados finales robustos, ejecutar 3 corridas con semillas distintas (`random_state`: 42, 52, 62) y consolidar un ranking promedio.
 
 ## Salidas generadas
 
