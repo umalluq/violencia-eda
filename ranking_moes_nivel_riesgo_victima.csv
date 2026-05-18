@@ -1,0 +1,17 @@
+feature,moes_rank
+amenaza_de_muerte,1
+violacion,2
+ubigeo_nombre,3
+ubigeo_codigo,4
+factor_agresor_consume_droga,5
+cem,6
+otra_vpsi,7
+vinculo_familiar,8
+gritos_insultos,9
+vinculo_agresor_victima,10
+primera_vez_agrede,11
+prov_domicilio,12
+situacion_agresor,13
+informante,14
+edad_agresor,15
+cuenta_medidas_proteccion,16

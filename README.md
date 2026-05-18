@@ -31,6 +31,15 @@ Construir una base analitica limpia en formato Parquet y un analisis estadistico
 - `metodologia de seleccion de caracteristicas.md`  
   Documentacion detallada del enfoque multimetodo y los pesos de consenso aplicados.
 
+- `marco_metodologico_algoritmos.md`  
+  Documento vivo con explicacion por etapas de investigacion, justificacion de algoritmos, criterios metodologicos y referencias bibliograficas.
+
+- `ESTADO_ACTUAL.md`  
+  Estado operativo vigente del proyecto (notebook oficial, parametros actuales, reglas metodologicas y salidas esperadas).
+
+- `scripts/resumen_comparativo_features.py`  
+  Script de comparacion entre seleccion hibrida y MOES (interseccion, Jaccard y resumen de mejor punto Pareto por target).
+
 - `ubigeo_trabajar.csv`  
   Maestro UBIGEO usado para construir `ubigeo_codigo` y `ubigeo_nombre`.
 
@@ -122,6 +131,38 @@ pip install pandas pyarrow numpy seaborn matplotlib scipy scikit-learn
 1. Ejecutar `eda_denuncias.ipynb` para preparar base y reportes.
 2. Ejecutar `analisis_estadistico_y_features.ipynb` para graficos y seleccion inicial de features.
 3. Revisar exportables CSV/Markdown para documentacion y ajustes.
+
+## Reproducir resultados actuales
+
+1. Ejecutar `eda_denuncias.ipynb` y confirmar generacion de `base_modelado.parquet`.
+2. Ejecutar `analisis_estadistico_y_features.ipynb` para validacion exploratoria.
+3. Ejecutar `seleccion_caracteristicas_multimetodo_FULL.ipynb` en este orden:
+   - preparacion de features,
+   - auditoria de leakage,
+   - seleccion hibrida por target,
+   - MOES-RF por target,
+   - exportables CSV.
+4. Verificar salida de archivos:
+   - `top30_consenso_tipo_violencia.csv`
+   - `top30_consenso_nivel_riesgo_victima.csv`
+   - `ranking_moes_tipo_violencia.csv`
+   - `ranking_moes_nivel_riesgo_victima.csv`
+    - `pareto_moes_tipo_violencia.csv`
+    - `pareto_moes_nivel_riesgo_victima.csv`
+5. Ejecutar comparacion hibrido vs MOES:
+
+```bash
+python scripts/resumen_comparativo_features.py
+```
+
+6. Verificar archivos resumen:
+   - `resumen_comparativo_features.csv`
+   - `detalle_interseccion_hibrido_moes.csv`
+
+## Resultado comparativo actual (Top 30 vs Top 30)
+
+- `tipo_violencia`: interseccion `21`, Jaccard `0.6774`, mejor MOES `F1=0.9586` con `22` features.
+- `nivel_riesgo_victima`: interseccion `12`, Jaccard `0.3529`, mejor MOES `F1=0.5252` con `16` features.
 
 ## Siguientes pasos sugeridos
 

@@ -1,131 +1,131 @@
-| variable                          | tipo_semantico        | dtype_post_tipado   |   n_unicos |   nulos_antes_imputacion | imputacion                   |   nulos_despues_imputacion | decision_final   |
-|:----------------------------------|:----------------------|:--------------------|-----------:|-------------------------:|:-----------------------------|---------------------------:|:-----------------|
-| vinculo_afectivo_otro             | categorica_codificada | object              |          1 |                   926697 | categoria fija (desconocido) |                          0 | conservar        |
-| otro_seguro                       | categorica_codificada | object              |          3 |                   925465 | categoria fija (desconocido) |                          0 | conservar        |
-| abandono                          | categorica_codificada | object              |          1 |                   924972 | categoria fija (desconocido) |                          0 | conservar        |
-| factor_victima_discapacidad       | categorica_codificada | object              |          1 |                   924590 | categoria fija (desconocido) |                          0 | conservar        |
-| otra_vsex                         | categorica_codificada | object              |          1 |                   924526 | categoria fija (desconocido) |                          0 | conservar        |
-| prohibe_recibir_visitas           | categorica_codificada | object              |          1 |                   923741 | categoria fija (desconocido) |                          0 | conservar        |
-| golpes_con_objetos_contundentes   | categorica_codificada | object              |          1 |                   923613 | categoria fija (desconocido) |                          0 | conservar        |
-| agresor_pais_extranjero           | categorica_codificada | object              |         84 |                   923388 | categoria fija (desconocido) |                          0 | conservar        |
-| agresor_carne_extranjeria         | categorica_codificada | object              |          2 |                   923253 | categoria fija (desconocido) |                          0 | conservar        |
-| prohibe_estudiar_trabajar_salir   | categorica_codificada | object              |          1 |                   923205 | categoria fija (desconocido) |                          0 | conservar        |
-| actos_contra_el_pudor             | categorica_codificada | object              |          1 |                   922045 | categoria fija (desconocido) |                          0 | conservar        |
-| golpes_con_palos                  | categorica_codificada | object              |          1 |                   921924 | categoria fija (desconocido) |                          0 | conservar        |
-| atencion_medica                   | categorica_codificada | object              |          1 |                   921767 | categoria fija (desconocido) |                          0 | conservar        |
-| victima_pais_extranjero           | categorica_codificada | object              |         79 |                   920965 | categoria fija (desconocido) |                          0 | conservar        |
-| victima_carne_extranjeria         | categorica_codificada | object              |          2 |                   920965 | categoria fija (desconocido) |                          0 | conservar        |
-| discr_genero                      | categorica_codificada | object              |          1 |                   920033 | categoria fija (desconocido) |                          0 | conservar        |
-| latigazo                          | categorica_codificada | object              |          1 |                   916965 | categoria fija (desconocido) |                          0 | conservar        |
-| vinculo_afectivo_vecinos          | categorica_codificada | object              |          1 |                   911954 | categoria fija (desconocido) |                          0 | conservar        |
-| otras_agresiones                  | categorica_codificada | object              |          1 |                   908407 | categoria fija (desconocido) |                          0 | conservar        |
-| ahorcamiento                      | categorica_codificada | object              |          1 |                   907778 | categoria fija (desconocido) |                          0 | conservar        |
-| rompe_destruye_cosas              | categorica_codificada | object              |          1 |                   906881 | categoria fija (desconocido) |                          0 | conservar        |
-| tratamiento_psicologico           | categorica_codificada | object              |          1 |                   903496 | categoria fija (desconocido) |                          0 | conservar        |
-| vinculo_afectivo_ninguno          | categorica_codificada | object              |          1 |                   901200 | categoria fija (desconocido) |                          0 | conservar        |
-| vigilancia_continua_persecucion   | categorica_codificada | object              |          1 |                   899637 | categoria fija (desconocido) |                          0 | conservar        |
-| negligencia                       | categorica_codificada | object              |          1 |                   898220 | categoria fija (desconocido) |                          0 | conservar        |
-| vinculo_afectivo_amigos           | categorica_codificada | object              |          1 |                   894550 | categoria fija (desconocido) |                          0 | conservar        |
-| amenaza_quitar_hijos              | categorica_codificada | object              |          1 |                   888452 | categoria fija (desconocido) |                          0 | conservar        |
-| factor_agresor_consume_droga      | categorica_codificada | object              |          1 |                   884642 | categoria fija (desconocido) |                          0 | conservar        |
-| indiferencia                      | categorica_codificada | object              |          1 |                   874612 | categoria fija (desconocido) |                          0 | conservar        |
-| otra_vfis                         | categorica_codificada | object              |          1 |                   873867 | categoria fija (desconocido) |                          0 | conservar        |
-| violacion                         | categorica_codificada | object              |          1 |                   870087 | categoria fija (desconocido) |                          0 | conservar        |
-| puntapies_patadas                 | categorica_codificada | object              |          1 |                   869665 | categoria fija (desconocido) |                          0 | conservar        |
-| botar_casa                        | categorica_codificada | object              |          1 |                   865933 | categoria fija (desconocido) |                          0 | conservar        |
-| bofetadas                         | categorica_codificada | object              |          1 |                   858898 | categoria fija (desconocido) |                          0 | conservar        |
-| ningun_seguro                     | categorica_codificada | object              |          2 |                   856873 | categoria fija (desconocido) |                          0 | conservar        |
-| jalones_cabello                   | categorica_codificada | object              |          1 |                   855605 | categoria fija (desconocido) |                          0 | conservar        |
-| hijos_vivas_0_17                  | categorica_codificada | object              |         10 |                   853347 | categoria fija (desconocido) |                          0 | conservar        |
-| hijos_vivas_18_mas                | categorica_codificada | object              |         11 |                   853347 | categoria fija (desconocido) |                          0 | conservar        |
-| amenaza_de_muerte                 | categorica_codificada | object              |          1 |                   852073 | categoria fija (desconocido) |                          0 | conservar        |
-| rechazo                           | categorica_codificada | object              |          1 |                   848231 | categoria fija (desconocido) |                          0 | conservar        |
-| sin_vinculo                       | categorica_codificada | object              |         10 |                   836270 | categoria fija (desconocido) |                          0 | conservar        |
-| apoyo_instrumental                | categorica_codificada | object              |          3 |                   827256 | categoria fija (desconocido) |                          0 | conservar        |
-| otras_amenazas                    | categorica_codificada | object              |          1 |                   812605 | categoria fija (desconocido) |                          0 | conservar        |
-| punetazos                         | categorica_codificada | object              |          1 |                   812553 | categoria fija (desconocido) |                          0 | conservar        |
-| apoyo_material                    | categorica_codificada | object              |          6 |                   811910 | categoria fija (desconocido) |                          0 | conservar        |
-| otra_vpsi                         | categorica_codificada | object              |          1 |                   808276 | categoria fija (desconocido) |                          0 | conservar        |
-| apoyo_cognitivo                   | categorica_codificada | object              |          3 |                   807375 | categoria fija (desconocido) |                          0 | conservar        |
-| empujones                         | categorica_codificada | object              |          1 |                   806213 | categoria fija (desconocido) |                          0 | conservar        |
-| donde_interpuso_denuncia          | categorica_codificada | object              |          3 |                   790816 | categoria fija (desconocido) |                          0 | conservar        |
-| n_anos                            | categorica_codificada | object              |         62 |                   776822 | categoria fija (desconocido) |                          0 | conservar        |
-| n_meses                           | categorica_codificada | object              |         12 |                   776822 | categoria fija (desconocido) |                          0 | conservar        |
-| n_semanas                         | categorica_codificada | object              |          5 |                   776822 | categoria fija (desconocido) |                          0 | conservar        |
-| essalud_seguro                    | categorica_codificada | object              |          2 |                   770717 | categoria fija (desconocido) |                          0 | conservar        |
-| apoyo_emocional                   | categorica_codificada | object              |          4 |                   758402 | categoria fija (desconocido) |                          0 | conservar        |
-| hijas_vivas                       | numerica_real         | float64             |         11 |                   742031 | mediana (0.0)                |                          0 | conservar        |
-| hijos_vivos                       | numerica_real         | float64             |         11 |                   742031 | mediana (0.0)                |                          0 | conservar        |
-| desea_denunciar                   | categorica_codificada | object              |          2 |                   732663 | categoria fija (desconocido) |                          0 | conservar        |
-| factor_agresor_consumo_alcohol    | categorica_codificada | object              |          1 |                   729258 | categoria fija (desconocido) |                          0 | conservar        |
-| agresor_area_residencia_domicilio | categorica_codificada | object              |          2 |                   657633 | categoria fija (desconocido) |                          0 | conservar        |
-| ocupacion_victima                 | categorica_codificada | object              |        113 |                   626034 | categoria fija (desconocido) |                          0 | conservar        |
-| modalidades_vcm                   | categorica_codificada | object              |         13 |                   622630 | categoria fija (desconocido) |                          0 | conservar        |
-| tipo_gestion_estudia              | categorica_codificada | object              |          3 |                   620670 | categoria fija (desconocido) |                          0 | conservar        |
-| lugar_estudia                     | categorica_codificada | object              |          4 |                   620463 | categoria fija (desconocido) |                          0 | conservar        |
-| desvalorizacion_humillacion       | categorica_codificada | object              |          1 |                   564464 | categoria fija (desconocido) |                          0 | conservar        |
-| antecedente_desaparicion          | categorica_codificada | object              |          2 |                   563409 | categoria fija (desconocido) |                          0 | conservar        |
-| situacion_agresor                 | categorica_codificada | object              |          7 |                   562378 | categoria fija (desconocido) |                          0 | conservar        |
-| vinculo_familiar                  | categorica_codificada | object              |         19 |                   547220 | categoria fija (desconocido) |                          0 | conservar        |
-| vinculo_pareja                    | categorica_codificada | object              |         10 |                   490180 | categoria fija (desconocido) |                          0 | conservar        |
-| gritos_insultos                   | categorica_codificada | object              |          1 |                   331741 | categoria fija (desconocido) |                          0 | conservar        |
-| hijos_vivos_0_17                  | categorica_codificada | object              |         11 |                   278292 | categoria fija (desconocido) |                          0 | conservar        |
-| hijos_vivos_18_mas                | categorica_codificada | object              |         13 |                   278292 | categoria fija (desconocido) |                          0 | conservar        |
-| sis_seguro                        | categorica_codificada | object              |          2 |                   262534 | categoria fija (desconocido) |                          0 | conservar        |
-| ocupacion_agresor                 | categorica_codificada | object              |        113 |                   255239 | categoria fija (desconocido) |                          0 | conservar        |
-| cuenta_medidas_proteccion         | categorica_codificada | object              |          2 |                   204174 | categoria fija (desconocido) |                          0 | conservar        |
-| cuenta_medidas_cautelares         | categorica_codificada | object              |          2 |                   204174 | categoria fija (desconocido) |                          0 | conservar        |
-| discapacidad_agresor              | categorica_codificada | object              |          2 |                   201593 | categoria fija (desconocido) |                          0 | conservar        |
-| acude_sola                        | categorica_codificada | object              |          4 |                   194804 | categoria fija (desconocido) |                          0 | conservar        |
-| hijas_vivas_0_17                  | categorica_codificada | object              |         12 |                   194804 | categoria fija (desconocido) |                          0 | conservar        |
-| hijas_vivas_18_mas                | categorica_codificada | object              |         15 |                   194804 | categoria fija (desconocido) |                          0 | conservar        |
-| discapacidad_victima              | categorica_codificada | object              |          2 |                   194804 | categoria fija (desconocido) |                          0 | conservar        |
-| estado_agresor_g                  | categorica_codificada | object              |          4 |                   192898 | categoria fija (desconocido) |                          0 | conservar        |
-| estado_victima_g                  | categorica_codificada | object              |          4 |                   192898 | categoria fija (desconocido) |                          0 | conservar        |
-| frecuencia_agrede                 | categorica_codificada | object              |          5 |                   192897 | categoria fija (desconocido) |                          0 | conservar        |
-| etnia_victima                     | categorica_codificada | object              |          9 |                   150498 | categoria fija (desconocido) |                          0 | conservar        |
-| victima_gestando                  | categorica_codificada | object              |          2 |                   138505 | categoria fija (desconocido) |                          0 | conservar        |
-| vinculo_afectivo_familia          | categorica_codificada | object              |          1 |                    69829 | categoria fija (desconocido) |                          0 | conservar        |
-| ningun_tratamiento                | categorica_codificada | object              |          1 |                    51420 | categoria fija (desconocido) |                          0 | conservar        |
-| caso_tentativa_de_feminicidio     | categorica_codificada | object              |          2 |                    42996 | categoria fija (desconocido) |                          0 | conservar        |
-| nivel_educativo_agresor           | categorica_codificada | object              |         12 |                    35201 | categoria fija (desconocido) |                          0 | conservar        |
-| trabaja_agresor                   | categorica_codificada | object              |          2 |                    25630 | categoria fija (desconocido) |                          0 | conservar        |
-| agresor_cuenta_dni                | categorica_codificada | object              |          2 |                    22972 | categoria fija (desconocido) |                          0 | conservar        |
-| edad_agresor                      | numerica_real         | float64             |         96 |                    17682 | mediana (37.0)               |                          0 | conservar        |
-| lengua_materna_victima            | categorica_codificada | object              |         15 |                    15440 | categoria fija (desconocido) |                          0 | conservar        |
-| victima_cuenta_dni                | categorica_codificada | object              |          2 |                    14831 | categoria fija (desconocido) |                          0 | conservar        |
-| agresor_extranjero                | categorica_codificada | object              |          2 |                    10627 | categoria fija (desconocido) |                          0 | conservar        |
-| agresor_peruano                   | categorica_codificada | object              |          2 |                     9867 | categoria fija (desconocido) |                          0 | conservar        |
-| ubigeo_nombre                     | categorica_codificada | object              |       1882 |                       99 | categoria fija (desconocido) |                          0 | conservar        |
-| cem                               | categorica_codificada | object              |        449 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| condicion                         | categorica_codificada | object              |          5 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| informante                        | categorica_codificada | object              |          2 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| victima_peruana                   | categorica_codificada | object              |          2 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| victima_extranjera                | categorica_codificada | object              |          2 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| edad_victima                      | numerica_real         | int64               |        105 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| sexo_victima                      | categorica_codificada | object              |          2 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| dpto_domicilio                    | categorica_codificada | object              |         26 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| prov_domicilio                    | categorica_codificada | object              |         21 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| dist_domicilio                    | categorica_codificada | object              |         44 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| centro_poblado_domicilio          | categorica_codificada | object              |        362 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| area_residencia_domicilio         | categorica_codificada | object              |          4 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| estado_civil_victima              | categorica_codificada | object              |          4 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| nivel_educativo_victima           | categorica_codificada | object              |         12 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| estudia                           | categorica_codificada | object              |          2 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| trabaja_victima                   | categorica_codificada | object              |          2 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| vinculo_agresor_victima           | categorica_codificada | object              |          3 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| agresor_vive_casa_victima         | categorica_codificada | object              |          4 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| sexo_agresor                      | categorica_codificada | object              |          2 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| primera_vez_agrede                | categorica_codificada | object              |          2 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| estado_agresor_u_a                | categorica_codificada | object              |          4 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| estado_victima_u_a                | categorica_codificada | object              |          4 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| continua_recibiendo_tratamiento   | categorica_codificada | object              |          2 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| redes_fam_soc                     | categorica_codificada | object              |          2 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| nivel_riesgo_victima              | categorica_codificada | object              |          3 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| interpuso_denuncia                | categorica_codificada | object              |          2 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| desea_patrocinio_legal            | categorica_codificada | object              |          2 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| tipo_violencia                    | categorica_codificada | object              |          4 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| ubigeo_codigo                     | categorica_codificada | object              |       1883 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| anio                              | temporal_derivada     | int32               |          6 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| mes                               | temporal_derivada     | int32               |         12 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
-| anio_mes                          | categorica_codificada | object              |         69 |                        0 | sin imputacion (sin nulos)   |                          0 | conservar        |
+| variable                          | tipo_semantico        | dtype_post_tipado | n_unicos | nulos_antes_imputacion | imputacion                   | nulos_despues_imputacion | decision_final |
+| :-------------------------------- | :-------------------- | :---------------- | -------: | ---------------------: | :--------------------------- | -----------------------: | :------------- |
+| vinculo_afectivo_otro             | categorica_codificada | object            |        1 |                 926697 | categoria fija (desconocido) |                        0 | conservar      |
+| otro_seguro                       | categorica_codificada | object            |        3 |                 925465 | categoria fija (desconocido) |                        0 | conservar      |
+| abandono                          | categorica_codificada | object            |        1 |                 924972 | categoria fija (desconocido) |                        0 | conservar      |
+| factor_victima_discapacidad       | categorica_codificada | object            |        1 |                 924590 | categoria fija (desconocido) |                        0 | conservar      |
+| otra_vsex                         | categorica_codificada | object            |        1 |                 924526 | categoria fija (desconocido) |                        0 | conservar      |
+| prohibe_recibir_visitas           | categorica_codificada | object            |        1 |                 923741 | categoria fija (desconocido) |                        0 | conservar      |
+| golpes_con_objetos_contundentes   | categorica_codificada | object            |        1 |                 923613 | categoria fija (desconocido) |                        0 | conservar      |
+| agresor_pais_extranjero           | categorica_codificada | object            |       84 |                 923388 | categoria fija (desconocido) |                        0 | conservar      |
+| agresor_carne_extranjeria         | categorica_codificada | object            |        2 |                 923253 | categoria fija (desconocido) |                        0 | conservar      |
+| prohibe_estudiar_trabajar_salir   | categorica_codificada | object            |        1 |                 923205 | categoria fija (desconocido) |                        0 | conservar      |
+| actos_contra_el_pudor             | categorica_codificada | object            |        1 |                 922045 | categoria fija (desconocido) |                        0 | conservar      |
+| golpes_con_palos                  | categorica_codificada | object            |        1 |                 921924 | categoria fija (desconocido) |                        0 | conservar      |
+| atencion_medica                   | categorica_codificada | object            |        1 |                 921767 | categoria fija (desconocido) |                        0 | conservar      |
+| victima_pais_extranjero           | categorica_codificada | object            |       79 |                 920965 | categoria fija (desconocido) |                        0 | conservar      |
+| victima_carne_extranjeria         | categorica_codificada | object            |        2 |                 920965 | categoria fija (desconocido) |                        0 | conservar      |
+| discr_genero                      | categorica_codificada | object            |        1 |                 920033 | categoria fija (desconocido) |                        0 | conservar      |
+| latigazo                          | categorica_codificada | object            |        1 |                 916965 | categoria fija (desconocido) |                        0 | conservar      |
+| vinculo_afectivo_vecinos          | categorica_codificada | object            |        1 |                 911954 | categoria fija (desconocido) |                        0 | conservar      |
+| otras_agresiones                  | categorica_codificada | object            |        1 |                 908407 | categoria fija (desconocido) |                        0 | conservar      |
+| ahorcamiento                      | categorica_codificada | object            |        1 |                 907778 | categoria fija (desconocido) |                        0 | conservar      |
+| rompe_destruye_cosas              | categorica_codificada | object            |        1 |                 906881 | categoria fija (desconocido) |                        0 | conservar      |
+| tratamiento_psicologico           | categorica_codificada | object            |        1 |                 903496 | categoria fija (desconocido) |                        0 | conservar      |
+| vinculo_afectivo_ninguno          | categorica_codificada | object            |        1 |                 901200 | categoria fija (desconocido) |                        0 | conservar      |
+| vigilancia_continua_persecucion   | categorica_codificada | object            |        1 |                 899637 | categoria fija (desconocido) |                        0 | conservar      |
+| negligencia                       | categorica_codificada | object            |        1 |                 898220 | categoria fija (desconocido) |                        0 | conservar      |
+| vinculo_afectivo_amigos           | categorica_codificada | object            |        1 |                 894550 | categoria fija (desconocido) |                        0 | conservar      |
+| amenaza_quitar_hijos              | categorica_codificada | object            |        1 |                 888452 | categoria fija (desconocido) |                        0 | conservar      |
+| factor_agresor_consume_droga      | categorica_codificada | object            |        1 |                 884642 | categoria fija (desconocido) |                        0 | conservar      |
+| indiferencia                      | categorica_codificada | object            |        1 |                 874612 | categoria fija (desconocido) |                        0 | conservar      |
+| otra_vfis                         | categorica_codificada | object            |        1 |                 873867 | categoria fija (desconocido) |                        0 | conservar      |
+| violacion                         | categorica_codificada | object            |        1 |                 870087 | categoria fija (desconocido) |                        0 | conservar      |
+| puntapies_patadas                 | categorica_codificada | object            |        1 |                 869665 | categoria fija (desconocido) |                        0 | conservar      |
+| botar_casa                        | categorica_codificada | object            |        1 |                 865933 | categoria fija (desconocido) |                        0 | conservar      |
+| bofetadas                         | categorica_codificada | object            |        1 |                 858898 | categoria fija (desconocido) |                        0 | conservar      |
+| ningun_seguro                     | categorica_codificada | object            |        2 |                 856873 | categoria fija (desconocido) |                        0 | conservar      |
+| jalones_cabello                   | categorica_codificada | object            |        1 |                 855605 | categoria fija (desconocido) |                        0 | conservar      |
+| hijos_vivas_0_17                  | categorica_codificada | object            |       10 |                 853347 | categoria fija (desconocido) |                        0 | conservar      |
+| hijos_vivas_18_mas                | categorica_codificada | object            |       11 |                 853347 | categoria fija (desconocido) |                        0 | conservar      |
+| amenaza_de_muerte                 | categorica_codificada | object            |        1 |                 852073 | categoria fija (desconocido) |                        0 | conservar      |
+| rechazo                           | categorica_codificada | object            |        1 |                 848231 | categoria fija (desconocido) |                        0 | conservar      |
+| sin_vinculo                       | categorica_codificada | object            |       10 |                 836270 | categoria fija (desconocido) |                        0 | conservar      |
+| apoyo_instrumental                | categorica_codificada | object            |        3 |                 827256 | categoria fija (desconocido) |                        0 | conservar      |
+| otras_amenazas                    | categorica_codificada | object            |        1 |                 812605 | categoria fija (desconocido) |                        0 | conservar      |
+| punetazos                         | categorica_codificada | object            |        1 |                 812553 | categoria fija (desconocido) |                        0 | conservar      |
+| apoyo_material                    | categorica_codificada | object            |        6 |                 811910 | categoria fija (desconocido) |                        0 | conservar      |
+| otra_vpsi                         | categorica_codificada | object            |        1 |                 808276 | categoria fija (desconocido) |                        0 | conservar      |
+| apoyo_cognitivo                   | categorica_codificada | object            |        3 |                 807375 | categoria fija (desconocido) |                        0 | conservar      |
+| empujones                         | categorica_codificada | object            |        1 |                 806213 | categoria fija (desconocido) |                        0 | conservar      |
+| donde_interpuso_denuncia          | categorica_codificada | object            |        3 |                 790816 | categoria fija (desconocido) |                        0 | conservar      |
+| n_anos                            | categorica_codificada | object            |       62 |                 776822 | categoria fija (desconocido) |                        0 | conservar      |
+| n_meses                           | categorica_codificada | object            |       12 |                 776822 | categoria fija (desconocido) |                        0 | conservar      |
+| n_semanas                         | categorica_codificada | object            |        5 |                 776822 | categoria fija (desconocido) |                        0 | conservar      |
+| essalud_seguro                    | categorica_codificada | object            |        2 |                 770717 | categoria fija (desconocido) |                        0 | conservar      |
+| apoyo_emocional                   | categorica_codificada | object            |        4 |                 758402 | categoria fija (desconocido) |                        0 | conservar      |
+| hijas_vivas                       | numerica_real         | float64           |       11 |                 742031 | mediana (0.0)                |                        0 | conservar      |
+| hijos_vivos                       | numerica_real         | float64           |       11 |                 742031 | mediana (0.0)                |                        0 | conservar      |
+| desea_denunciar                   | categorica_codificada | object            |        2 |                 732663 | categoria fija (desconocido) |                        0 | conservar      |
+| factor_agresor_consumo_alcohol    | categorica_codificada | object            |        1 |                 729258 | categoria fija (desconocido) |                        0 | conservar      |
+| agresor_area_residencia_domicilio | categorica_codificada | object            |        2 |                 657633 | categoria fija (desconocido) |                        0 | conservar      |
+| ocupacion_victima                 | categorica_codificada | object            |      113 |                 626034 | categoria fija (desconocido) |                        0 | conservar      |
+| modalidades_vcm                   | categorica_codificada | object            |       13 |                 622630 | categoria fija (desconocido) |                        0 | conservar      |
+| tipo_gestion_estudia              | categorica_codificada | object            |        3 |                 620670 | categoria fija (desconocido) |                        0 | conservar      |
+| lugar_estudia                     | categorica_codificada | object            |        4 |                 620463 | categoria fija (desconocido) |                        0 | conservar      |
+| desvalorizacion_humillacion       | categorica_codificada | object            |        1 |                 564464 | categoria fija (desconocido) |                        0 | conservar      |
+| antecedente_desaparicion          | categorica_codificada | object            |        2 |                 563409 | categoria fija (desconocido) |                        0 | conservar      |
+| situacion_agresor                 | categorica_codificada | object            |        7 |                 562378 | categoria fija (desconocido) |                        0 | conservar      |
+| vinculo_familiar                  | categorica_codificada | object            |       19 |                 547220 | categoria fija (desconocido) |                        0 | conservar      |
+| vinculo_pareja                    | categorica_codificada | object            |       10 |                 490180 | categoria fija (desconocido) |                        0 | conservar      |
+| gritos_insultos                   | categorica_codificada | object            |        1 |                 331741 | categoria fija (desconocido) |                        0 | conservar      |
+| hijos_vivos_0_17                  | categorica_codificada | object            |       11 |                 278292 | categoria fija (desconocido) |                        0 | conservar      |
+| hijos_vivos_18_mas                | categorica_codificada | object            |       13 |                 278292 | categoria fija (desconocido) |                        0 | conservar      |
+| sis_seguro                        | categorica_codificada | object            |        2 |                 262534 | categoria fija (desconocido) |                        0 | conservar      |
+| ocupacion_agresor                 | categorica_codificada | object            |      113 |                 255239 | categoria fija (desconocido) |                        0 | conservar      |
+| cuenta_medidas_proteccion         | categorica_codificada | object            |        2 |                 204174 | categoria fija (desconocido) |                        0 | conservar      |
+| cuenta_medidas_cautelares         | categorica_codificada | object            |        2 |                 204174 | categoria fija (desconocido) |                        0 | conservar      |
+| discapacidad_agresor              | categorica_codificada | object            |        2 |                 201593 | categoria fija (desconocido) |                        0 | conservar      |
+| acude_sola                        | categorica_codificada | object            |        4 |                 194804 | categoria fija (desconocido) |                        0 | conservar      |
+| hijas_vivas_0_17                  | categorica_codificada | object            |       12 |                 194804 | categoria fija (desconocido) |                        0 | conservar      |
+| hijas_vivas_18_mas                | categorica_codificada | object            |       15 |                 194804 | categoria fija (desconocido) |                        0 | conservar      |
+| discapacidad_victima              | categorica_codificada | object            |        2 |                 194804 | categoria fija (desconocido) |                        0 | conservar      |
+| estado_agresor_g                  | categorica_codificada | object            |        4 |                 192898 | categoria fija (desconocido) |                        0 | conservar      |
+| estado_victima_g                  | categorica_codificada | object            |        4 |                 192898 | categoria fija (desconocido) |                        0 | conservar      |
+| frecuencia_agrede                 | categorica_codificada | object            |        5 |                 192897 | categoria fija (desconocido) |                        0 | conservar      |
+| etnia_victima                     | categorica_codificada | object            |        9 |                 150498 | categoria fija (desconocido) |                        0 | conservar      |
+| victima_gestando                  | categorica_codificada | object            |        2 |                 138505 | categoria fija (desconocido) |                        0 | conservar      |
+| vinculo_afectivo_familia          | categorica_codificada | object            |        1 |                  69829 | categoria fija (desconocido) |                        0 | conservar      |
+| ningun_tratamiento                | categorica_codificada | object            |        1 |                  51420 | categoria fija (desconocido) |                        0 | conservar      |
+| caso_tentativa_de_feminicidio     | categorica_codificada | object            |        2 |                  42996 | categoria fija (desconocido) |                        0 | conservar      |
+| nivel_educativo_agresor           | categorica_codificada | object            |       12 |                  35201 | categoria fija (desconocido) |                        0 | conservar      |
+| trabaja_agresor                   | categorica_codificada | object            |        2 |                  25630 | categoria fija (desconocido) |                        0 | conservar      |
+| agresor_cuenta_dni                | categorica_codificada | object            |        2 |                  22972 | categoria fija (desconocido) |                        0 | conservar      |
+| edad_agresor                      | numerica_real         | float64           |       96 |                  17682 | mediana (37.0)               |                        0 | conservar      |
+| lengua_materna_victima            | categorica_codificada | object            |       15 |                  15440 | categoria fija (desconocido) |                        0 | conservar      |
+| victima_cuenta_dni                | categorica_codificada | object            |        2 |                  14831 | categoria fija (desconocido) |                        0 | conservar      |
+| agresor_extranjero                | categorica_codificada | object            |        2 |                  10627 | categoria fija (desconocido) |                        0 | conservar      |
+| agresor_peruano                   | categorica_codificada | object            |        2 |                   9867 | categoria fija (desconocido) |                        0 | conservar      |
+| ubigeo_nombre                     | categorica_codificada | object            |     1882 |                     99 | categoria fija (desconocido) |                        0 | conservar      |
+| cem                               | categorica_codificada | object            |      449 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| condicion                         | categorica_codificada | object            |        5 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| informante                        | categorica_codificada | object            |        2 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| victima_peruana                   | categorica_codificada | object            |        2 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| victima_extranjera                | categorica_codificada | object            |        2 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| edad_victima                      | numerica_real         | int64             |      105 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| sexo_victima                      | categorica_codificada | object            |        2 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| dpto_domicilio                    | categorica_codificada | object            |       26 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| prov_domicilio                    | categorica_codificada | object            |       21 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| dist_domicilio                    | categorica_codificada | object            |       44 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| centro_poblado_domicilio          | categorica_codificada | object            |      362 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| area_residencia_domicilio         | categorica_codificada | object            |        4 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| estado_civil_victima              | categorica_codificada | object            |        4 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| nivel_educativo_victima           | categorica_codificada | object            |       12 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| estudia                           | categorica_codificada | object            |        2 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| trabaja_victima                   | categorica_codificada | object            |        2 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| vinculo_agresor_victima           | categorica_codificada | object            |        3 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| agresor_vive_casa_victima         | categorica_codificada | object            |        4 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| sexo_agresor                      | categorica_codificada | object            |        2 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| primera_vez_agrede                | categorica_codificada | object            |        2 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| estado_agresor_u_a                | categorica_codificada | object            |        4 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| estado_victima_u_a                | categorica_codificada | object            |        4 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| continua_recibiendo_tratamiento   | categorica_codificada | object            |        2 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| redes_fam_soc                     | categorica_codificada | object            |        2 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| nivel_riesgo_victima              | categorica_codificada | object            |        3 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| interpuso_denuncia                | categorica_codificada | object            |        2 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| desea_patrocinio_legal            | categorica_codificada | object            |        2 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| tipo_violencia                    | categorica_codificada | object            |        4 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| ubigeo_codigo                     | categorica_codificada | object            |     1883 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| anio                              | temporal_derivada     | int32             |        6 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| mes                               | temporal_derivada     | int32             |       12 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |
+| anio_mes                          | categorica_codificada | object            |       69 |                      0 | sin imputacion (sin nulos)   |                        0 | conservar      |

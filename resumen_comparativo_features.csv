@@ -1,0 +1,3 @@
+target,hybrid_topk,moes_topk,intersection,jaccard,moes_pareto_best_f1,moes_pareto_best_nfeat
+tipo_violencia,30,30,21,0.677419,0.958611,22
+nivel_riesgo_victima,30,30,12,0.352941,0.525226,16
