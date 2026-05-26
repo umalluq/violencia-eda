@@ -147,8 +147,8 @@ pip install pandas pyarrow numpy seaborn matplotlib scipy scikit-learn
    - `top30_consenso_nivel_riesgo_victima.csv`
    - `ranking_moes_tipo_violencia.csv`
    - `ranking_moes_nivel_riesgo_victima.csv`
-    - `pareto_moes_tipo_violencia.csv`
-    - `pareto_moes_nivel_riesgo_victima.csv`
+   - `pareto_moes_tipo_violencia.csv`
+   - `pareto_moes_nivel_riesgo_victima.csv`
 5. Ejecutar comparacion hibrido vs MOES:
 
 ```bash
@@ -158,6 +158,12 @@ python scripts/resumen_comparativo_features.py
 6. Verificar archivos resumen:
    - `resumen_comparativo_features.csv`
    - `detalle_interseccion_hibrido_moes.csv`
+7. (Opcional) Ejecutar bloque de entrenamiento final por target en `seleccion_caracteristicas_multimetodo_FULL.ipynb` y validar:
+   - `resumen_modelos_tipo_violencia.csv`
+   - `resumen_modelos_nivel_riesgo_victima.csv`
+   - `resumen_modelos_final.csv`
+   - `cm_best_*_baseline.png`
+   - `roc_best_*_baseline.png`
 
 ## Resultado comparativo actual (Top 30 vs Top 30)
 
@@ -166,7 +172,7 @@ python scripts/resumen_comparativo_features.py
 
 ## Siguientes pasos sugeridos
 
-- validar leakage de variables antes de entrenar modelos,
-- definir protocolo de split temporal/geografico,
-- construir baseline de modelado por target,
-- comparar metodos de seleccion de features con validacion cruzada.
+- ampliar benchmark de modelos con mas metricas (precision/recall macro, balanced accuracy, AUC, log-loss, tiempos),
+- comparar escenarios baseline vs SMOTE vs SMOTETomek por target,
+- definir protocolo final de split temporal/geografico para reporte final,
+- consolidar seleccion final de variables con estabilidad por semillas (42/52/62).
