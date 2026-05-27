@@ -170,6 +170,13 @@ python scripts/resumen_comparativo_features.py
 - `tipo_violencia`: interseccion `21`, Jaccard `0.6774`, mejor MOES `F1=0.9586` con `22` features.
 - `nivel_riesgo_victima`: interseccion `12`, Jaccard `0.3529`, mejor MOES `F1=0.5252` con `16` features.
 
+## Resultado de benchmark final (mismo K, mismo split, mismos modelos)
+
+- Se compararon subsets `hibrido` vs `moes` en igualdad de condiciones (`benchmark_moes_vs_hibrido.csv`).
+- `tipo_violencia` (`K=22`): el subset hibrido obtuvo mejor F1-macro en `RL`, `MLP` y `RF`.
+- `nivel_riesgo_victima` (`K=16`): el mejor resultado tambien fue con subset hibrido (`RF`).
+- Decision de etapa: usar subset **hibrido** como referencia principal para la fase de modelado productivo.
+
 ## Siguientes pasos sugeridos
 
 - ampliar benchmark de modelos con mas metricas (precision/recall macro, balanced accuracy, AUC, log-loss, tiempos),

@@ -141,6 +141,21 @@ En esta tesis se utiliza una bateria hibrida que combina filtros, metodos embedd
 - Alta convergencia en `tipo_violencia` (evidencia de estabilidad entre paradigmas).
 - Convergencia moderada-baja en `nivel_riesgo_victima` (target mas complejo, posible menor senal o mayor ruido).
 
+### 4.5 Comparacion por entrenamiento final (mismo K, mismo protocolo)
+- Se evaluaron subsets MOES y Hibrido con:
+  - mismo K por target (`22` en `tipo_violencia`, `16` en `nivel_riesgo_victima`),
+  - mismo split y tamano de entrenamiento,
+  - mismos modelos baseline (`RF`, `RL`, `MLP`).
+- Fuente: `benchmark_moes_vs_hibrido.csv`.
+
+**Resultado actual**
+- `tipo_violencia`: Hibrido > MOES en los tres modelos.
+- `nivel_riesgo_victima`: mejor resultado con Hibrido (`RF`), MOES no supera globalmente.
+
+**Decision de etapa**
+- Para la siguiente fase de modelado, se prioriza el subset **hibrido** como referencia principal.
+- MOES se mantiene como contraste metodologico de parsimonia.
+
 **Referencias**
 - Deb, K. (2001). *Multi-Objective Optimization using Evolutionary Algorithms*. Wiley.
 - Sarker, R. A., & Coello Coello, C. A. (2002). Evolutionary optimization. In *EOLSS*.
@@ -210,3 +225,4 @@ Un algoritmo puede bajar de peso (o retirarse) si:
 - Permutation Importance se mantiene como evidencia complementaria en el consenso, no como criterio unico, por sensibilidad a redundancia entre variables.
 - La estabilidad del ranking se evalua con multiples semillas (`42, 52, 62`) y consolidacion de resultados.
 - La comparacion hibrido vs MOES se reporta con interseccion/Jaccard y mejor punto Pareto por target.
+- La decision final de subset se valida con benchmark de entrenamiento (mismo K y mismo protocolo), no solo con Jaccard.

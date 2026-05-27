@@ -1,0 +1,7 @@
+target,scenario,model,f1_macro,n_features,n_train,n_test,subset_source,k
+tipo_violencia,baseline,RL,0.9700270706720434,22,96000,24000,hibrido,22
+tipo_violencia,baseline,MLP,0.9693892432621176,22,96000,24000,hibrido,22
+tipo_violencia,baseline,RF,0.9687064659598826,22,96000,24000,hibrido,22
+tipo_violencia,baseline,MLP,0.9629964500251922,22,96000,24000,moes,22
+tipo_violencia,baseline,RL,0.9620896681494308,22,96000,24000,moes,22
+tipo_violencia,baseline,RF,0.9615445278603829,22,96000,24000,moes,22

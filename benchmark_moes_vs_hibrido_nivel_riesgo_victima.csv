@@ -1,0 +1,7 @@
+target,scenario,model,f1_macro,n_features,n_train,n_test,subset_source,k
+nivel_riesgo_victima,baseline,RF,0.5303564265875308,16,96000,24000,hibrido,16
+nivel_riesgo_victima,baseline,MLP,0.46918263281754413,16,96000,24000,hibrido,16
+nivel_riesgo_victima,baseline,RL,0.36257321477211385,16,96000,24000,hibrido,16
+nivel_riesgo_victima,baseline,RF,0.5217472922953751,16,96000,24000,moes,16
+nivel_riesgo_victima,baseline,MLP,0.38095790856753514,16,96000,24000,moes,16
+nivel_riesgo_victima,baseline,RL,0.36515265077198605,16,96000,24000,moes,16

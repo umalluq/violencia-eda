@@ -1,0 +1,3 @@
+target,scenario,model,f1_macro,balanced_accuracy,recall_macro,n_features,n_train,n_test
+tipo_violencia,baseline,RF,0.9687064659598826,0.9700614778484061,0.9700614778484061,22,96000,24000
+nivel_riesgo_victima,baseline,RF,0.5303564265875308,0.5448406969662455,0.5448406969662455,16,96000,24000

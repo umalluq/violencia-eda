@@ -8,6 +8,11 @@
   1) seleccion hibrida por consenso,
   2) MOES-RF (multiobjetivo: error vs numero de variables).
 
+## Estado de decision (actual)
+- La comparacion de entrenamiento final (mismo K, mismo split, mismos modelos baseline) favorece al subset **hibrido** sobre MOES en desempeno global.
+- Decision de etapa: usar subset hibrido como referencia principal para la fase de modelado productivo.
+- MOES se mantiene como contraste metodologico.
+
 ## Notebook oficial de trabajo
 - `seleccion_caracteristicas_multimetodo_FULL.ipynb`
 
@@ -46,4 +51,4 @@
   - sensibilidad a `random_state` y `SAMPLE_SIZE`.
 
 ## Proximo paso sugerido
-- Ejecutar 3 corridas por target (42/52/62), consolidar ranking promedio y frecuencia Top-K.
+- Ejecutar benchmark ampliado con metricas adicionales y escenarios de balanceo (SMOTE/SMOTETomek).

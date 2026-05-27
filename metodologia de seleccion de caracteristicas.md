@@ -1,21 +1,52 @@
-Para la selección de características en el modelado de la violencia de género, el estudio utiliza una metodología que compara diferentes métodos de búsqueda y evaluadores de atributos para identificar las variables más relevantes.
+# Metodologia de Seleccion de Caracteristicas
 
-Las técnicas principales empleadas se dividen de la siguiente manera:
+## Objetivo
+Definir un subconjunto de variables por target que sea predictivo, interpretable y metodologicamente trazable.
 
-### 1. Métodos de Búsqueda (Search Methods)
-El estudio utiliza dos estrategias principales para explorar el conjunto de datos:
-*   **Estrategia de Búsqueda Evolutiva Multiobjetivo (MOES):** Específicamente, se aplica el algoritmo evolutivo de búsqueda aleatoria llamado **ENORA** (*Evolutionary NOn-dominated Radial slots-based Algorithm*), el cual busca minimizar simultáneamente el número de características seleccionadas y el error de predicción (RMSE).
-*   **Estrategia Ranker:** Esta técnica clasifica y ordena las características individualmente basándose en sus evaluaciones estadísticas.
+## Enfoques comparados
 
-### 2. Evaluadores de Atributos (Attribute Evaluators)
-Estas técnicas se encargan de calificar la utilidad de los subconjuntos de variables y se agruparon en dos categorías:
-*   **Métodos Wrapper (Multivariantes):** Evalúan combinaciones de factores utilizando algoritmos predictivos para determinar su fuerza de pronóstico. En este trabajo, se utilizaron los siguientes predictores dentro del enfoque wrapper:
-    *   **Regresión Lineal (LR)**.
-    *   **Random Forest (RF)**.
-    *   **K-vecinos más cercanos (IBk)**.
-*   **Métodos Filter (Univariantes):** Evalúan el poder predictivo de cada variable de forma individual. Se emplearon:
-    *   **Relief Attribute (Rlf):** Basado en la identificación de diferencias de valores entre pares de instancias cercanas.
-    *   **Análisis de Componentes Principales (PCA):** Transforma los datos a una menor dimensionalidad maximizando la varianza.
+### 1) Seleccion hibrida por consenso
+Se combinan cinco tecnicas:
+- Cramer's V
+- Mutual Information
+- Random Forest Importance
+- Permutation Importance
+- RFECV
 
-### La técnica ganadora
-De todas las combinaciones probadas, las fuentes señalan que la técnica más eficaz fue la **Búsqueda Evolutiva Multiobjetivo combinada con Random Forest (MOES-RF)**. Esta combinación permitió obtener las predicciones más precisas de denuncias por violencia de género, logrando un error medio (RMSE) de solo **0.1686 denuncias por cada 10,000 habitantes** en el territorio español.
+Cada ranking se normaliza y se integra en un score de consenso ponderado.
+
+### 2) MOES-RF (busqueda multiobjetivo)
+Se optimizan simultaneamente:
+- error predictivo,
+- numero de variables.
+
+Se usa frente de Pareto para elegir soluciones no dominadas.
+
+## Comparacion hibrido vs MOES
+
+### Comparacion estructural (Top 30)
+- `tipo_violencia`: interseccion 21/30, Jaccard 0.6774.
+- `nivel_riesgo_victima`: interseccion 12/30, Jaccard 0.3529.
+
+### Comparacion por entrenamiento final (mismo K, mismo split, mismos modelos)
+Se compararon subsets en condiciones equivalentes:
+- `tipo_violencia`: `K=22`
+- `nivel_riesgo_victima`: `K=16`
+
+Modelos usados en baseline: `RF`, `RL`, `MLP`.
+
+#### Resultado principal
+- En `tipo_violencia`, el subset hibrido supero al subset MOES en los tres modelos.
+- En `nivel_riesgo_victima`, el mejor resultado tambien fue con subset hibrido (RF).
+- En esta etapa baseline, no se evidencia superioridad global de MOES en desempeno final.
+
+## Decision metodologica de cierre de etapa
+- Se adopta el **subset hibrido** como referencia principal para la siguiente fase de modelado.
+- MOES se conserva como contraste metodologico y evidencia de parsimonia/robustez.
+
+## Archivos de evidencia
+- `resumen_comparativo_features.csv`
+- `detalle_interseccion_hibrido_moes.csv`
+- `benchmark_moes_vs_hibrido.csv`
+- `benchmark_moes_vs_hibrido_tipo_violencia.csv`
+- `benchmark_moes_vs_hibrido_nivel_riesgo_victima.csv`

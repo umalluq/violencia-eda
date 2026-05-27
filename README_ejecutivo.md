@@ -39,7 +39,7 @@ Preparar una base analitica robusta y reproducible de denuncias de violencia con
 - Seleccion hibrida de variables (Cramer's V, MI, RF, Permutation, RFECV) con score de consenso.
 - Seleccion evolutiva multiobjetivo MOES-RF para comparar error vs numero de variables.
 - Auditoria automatizada de leakage antes de modelado.
-- Entrenamiento final por target (ejecucion separada para estabilidad): RF, RL, MCP/MLP, XGB, CatBoost.
+- Entrenamiento final por target (ejecucion separada para estabilidad): RF, RL, MLP, XGB, CatBoost.
 
 ## Hallazgos operativos
 
@@ -47,6 +47,37 @@ Preparar una base analitica robusta y reproducible de denuncias de violencia con
 - `tipo_violencia` muestra alta convergencia entre metodos (interseccion 21/30, Jaccard 0.6774).
 - `nivel_riesgo_victima` muestra convergencia menor (interseccion 12/30, Jaccard 0.3529), indicando mayor complejidad del target.
 - No se detecto leakage_flag=1 en la verificacion automatizada vigente.
+
+## Resultados: benchmark MOES vs Hibrido (mismo K y mismo protocolo)
+
+Se realizo una comparacion directa y justa entre los subconjuntos de variables seleccionados por MOES y por el enfoque hibrido, manteniendo:
+- mismo numero de variables por target (`K=22` en `tipo_violencia`, `K=16` en `nivel_riesgo_victima`),
+- mismo split y tamano de entrenamiento (`n_train=96000`, `n_test=24000`),
+- mismos modelos (`RF`, `RL`, `MLP`) en escenario baseline.
+
+### `tipo_violencia`
+- Hibrido obtuvo mejor desempeno en los tres modelos:
+  - `RL`: `F1-macro=0.9700`
+  - `MLP`: `F1-macro=0.9694`
+  - `RF`: `F1-macro=0.9687`
+- MOES quedo por debajo en todos los casos:
+  - `MLP`: `0.9630`
+  - `RL`: `0.9621`
+  - `RF`: `0.9615`
+
+### `nivel_riesgo_victima`
+- El target mantiene mayor complejidad y menor desempeno global.
+- Mejor resultado: `RF` con subset hibrido (`F1-macro=0.5304`) vs `RF` con subset MOES (`0.5217`).
+- MOES solo supera levemente en `RL` (`0.3652` vs `0.3626`), ambos con rendimiento bajo.
+
+### Decision metodologica de cierre de etapa
+- En esta corrida baseline, no se confirma superioridad de MOES en desempeno final.
+- Se prioriza el **subset hibrido** como referencia principal para la siguiente fase de modelado y despliegue.
+- MOES se mantiene como contraste metodologico y validacion de estabilidad/parsimonia.
+
+### Nota de balanceo de clases
+- Se incorporo bloque de validacion focalizada de balanceo para `RF` (`baseline`, `SMOTE`, `SMOTETomek`) en el notebook final.
+- En la corrida registrada actual se dispone de baseline consolidado; la comparacion completa con remuestreo queda como siguiente validacion operativa segun disponibilidad de entorno/dependencias.
 
 ## Proximos pasos
 
