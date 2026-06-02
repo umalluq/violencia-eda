@@ -28,6 +28,12 @@ Construir una base analitica limpia en formato Parquet y un analisis estadistico
 - `seleccion_caracteristicas_multimetodo_FULL.ipynb`  
   Version estructurada por target con explicacion metodologica en Markdown, tabla Top 30 en formato Markdown, grafico de ranking final y exportables CSV por metodo.
 
+- `evaluacion_dimensionalidad_y_balanceo.ipynb`  
+  Notebook de investigacion avanzada que evalua la reduccion de dimensionalidad (Top 30 vs Top 10 vs MCA) y el balanceo sintetico (Baseline vs SMOTE vs SMOTETomek) bajo 4 algoritmos principales y multiples semillas aleatorias.
+
+- `interpretacion_resultados_completo.md`  
+  Reporte formal consolidado con la interpretacion de resultados, tablas metricas multiobjetivo y justificacion estadistica de las Fases 1 y 2.
+
 - `metodologia de seleccion de caracteristicas.md`  
   Documentacion detallada del enfoque multimetodo y los pesos de consenso aplicados.
 
@@ -177,9 +183,15 @@ python scripts/resumen_comparativo_features.py
 - `nivel_riesgo_victima` (`K=16`): el mejor resultado tambien fue con subset hibrido (`RF`).
 - Decision de etapa: usar subset **hibrido** como referencia principal para la fase de modelado productivo.
 
+## Cierre de Etapa: Fases 1 y 2 (Dimensionalidad y Balanceo)
+
+Se completó de forma exitosa la evaluación del impacto de la dimensionalidad (Top 30 vs Top 10 vs MCA) y las técnicas de balanceo (SMOTE / SMOTETomek). Los resultados consolidan que:
+* **`tipo_violencia`**: Debe entrenarse con el subconjunto **Top 30 Híbrido en escenario Baseline (sin balanceo)** usando **XGBoost** ($F1 \approx 98.1\%$). El sobremuestreo sintético no aporta valor e introduce ruido marginal debido a la alta separabilidad original de las clases.
+* **`nivel_riesgo_victima`**: Requiere obligatoriamente balanceo. La configuración óptima es el **Top 30 Híbrido con SMOTETomek** entrenado bajo **XGBoost**, logrando el mejor F1-macro promedio registrado de **$58.5\%$** (con un aumento significativo del Recall-macro).
+* **MCA como Reductor Óptimo**: Si se requiere un modelo compacto de 10 variables, la proyección **MCA es rotundamente superior a quedarse con el Top 10 Híbrido directo univariante** (superándolo por más del $4\%$ absoluto de F1-macro).
+
 ## Siguientes pasos sugeridos
 
-- ampliar benchmark de modelos con mas metricas (precision/recall macro, balanced accuracy, AUC, log-loss, tiempos),
-- comparar escenarios baseline vs SMOTE vs SMOTETomek por target,
-- definir protocolo final de split temporal/geografico para reporte final,
-- consolidar seleccion final de variables con estabilidad por semillas (42/52/62).
+- Realizar la optimización fina de hiperparámetros (mediante GridSearchCV o RandomizedSearchCV) para los clasificadores ganadores (XGBoost y CatBoost).
+- Ejecutar la Validación Cruzada de 5 pliegues estratificada final sobre el pipeline óptimo por target para el reporte definitivo de la tesis.
+- Generar curvas de aprendizaje, matrices de confusión y curvas ROC/AUC finales en 300 DPI para sustento en el documento de tesis.

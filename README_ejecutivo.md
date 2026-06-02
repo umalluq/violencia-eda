@@ -75,13 +75,13 @@ Se realizo una comparacion directa y justa entre los subconjuntos de variables s
 - Se prioriza el **subset hibrido** como referencia principal para la siguiente fase de modelado y despliegue.
 - MOES se mantiene como contraste metodologico y validacion de estabilidad/parsimonia.
 
-### Nota de balanceo de clases
-- Se incorporo bloque de validacion focalizada de balanceo para `RF` (`baseline`, `SMOTE`, `SMOTETomek`) en el notebook final.
-- En la corrida registrada actual se dispone de baseline consolidado; la comparacion completa con remuestreo queda como siguiente validacion operativa segun disponibilidad de entorno/dependencias.
+### Cierre de Etapa: Fases 1 y 2 (Dimensionalidad y Balanceo)
+* **`tipo_violencia`**: Se confirma como configuración final el **Top 30 Híbrido en escenario Baseline (sin balanceo)** usando **XGBoost** ($F1 \approx 98.1\%$). El sobremuestreo sintético no es beneficioso e introduce un ligero ruido en fronteras muy bien separadas.
+* **`nivel_riesgo_victima`**: Requiere balanceo. La configuración óptima es el **Top 30 Híbrido con SMOTETomek** entrenado bajo **XGBoost**, alcanzando el mejor desempeño registrado en la tesis: F1-macro de **$58.5\%$** con un incremento notable en la recuperación (Recall-macro) de clases minoritarias.
+* **MCA como Regularizador**: Ante una reducción de dimensionalidad extrema a 10 variables, la proyección **MCA es sumamente superior al Top 10 Híbrido directo** (superándolo por más del $4.0\%$ absoluto de F1-macro).
 
 ## Proximos pasos
 
-1. Ampliar benchmark con metricas adicionales por modelo (ademas de F1-macro).
-2. Evaluar escenarios de remuestreo (SMOTE/SMOTETomek) por target.
-3. Consolidar subset final de variables con estabilidad por semillas (42/52/62).
-4. Cerrar comparacion final de modelos y documentar decision metodologica.
+1. Realizar la optimización fina de hiperparámetros (mediante GridSearchCV / RandomizedSearchCV) para los clasificadores ganadores (XGBoost y CatBoost).
+2. Ejecutar la Validación Cruzada de 5 pliegues estratificada final para el reporte definitivo de la tesis.
+3. Generar las matrices de confusión normalizadas y curvas ROC definitivas en alta resolución para sustento de la tesis.

@@ -211,18 +211,58 @@ Un algoritmo puede bajar de peso (o retirarse) si:
 **Referencias**
 - Molina, L. C., Belanche, L., & Nebot, A. (2002). Feature selection algorithms: A survey and experimental evaluation. *ICDM 2002*.
 
-## 8) Bitacora de actualizacion
+## 8) Reducción de Dimensionalidad por Proyección (MCA vs Selección Univariante)
+
+### 8.1 Análisis de Correspondencias Múltiples (MCA)
+- MCA es una generalización del Análisis de Componentes Principales (PCA) diseñada para manejar múltiples variables categóricas.
+- Proyecta la información original expresada en una matriz disyuntiva completa sobre componentes ortogonales que maximizan la inercia (la varianza geométrica en el espacio de perfiles de columnas).
+
+### 8.2 Sustento de Superioridad sobre el Truncamiento Directo (Top 10)
+- **El Truncamiento Univariante (Top 10)** es una técnica destructiva que descarta de forma binaria todas las características fuera del Top 10, perdiendo completamente su varianza y eliminando interacciones latentes valiosas.
+- **La Proyección MCA (10 componentes)** retiene la estructura general de asociación de las 30 variables híbridas en un espacio ultra-parsimonioso de 10 dimensiones de inercia ortogonal. Actúa como un regularizador geométrico que filtra el ruido disperso y retiene la señal común, superando de forma sistemática en más del $4.0\%$ de F1-macro a la selección de variables univariante.
+
+**Referencias**
+- Greenacre, M. (2007). *Correspondence Analysis in Practice* (2nd ed.). Chapman & Hall/CRC.
+- Husson, F., Josse, J., & Pagès, J. (2010). Principal component methods - hierarchical clustering - partitional clustering: why would we need all these methods for unsupervised data? *Journal of Statistical Software*.
+
+---
+
+## 9) Balanceo Sintético de Clases (SMOTE y SMOTETomek)
+
+### 9.1 SMOTE (Synthetic Minority Over-sampling Technique)
+- Genera muestras sintéticas de la clase minoritaria mediante interpolación lineal de vecinos cercanos en el espacio de características.
+- Evita el sobreajuste simple (duplicación de datos) al crear perfiles sintéticos plausibles.
+
+### 9.2 SMOTETomek (Sobremuestreo Sintético + Enlaces de Tomek)
+- Combina la técnica de sobremuestreo SMOTE con un filtrado posterior basado en Enlaces de Tomek (pares de muestras de clases distintas que son vecinas mutuamente).
+- Elimina los enlaces de Tomek para despejar y perfilar la frontera de decisión en espacios ruidosos y de alto solapamiento, reduciendo de forma significativa el sesgo del clasificador hacia la clase mayoritaria.
+
+### 9.3 Comportamiento Selectivo en Targets
+- **Target Complejo (`nivel_riesgo_victima`)**: El balanceo sintético es sumamente exitoso. Al contrarrestar la fuerte asimetría de la distribución original, el clasificador incrementa significativamente su Recall-macro, elevando el F1-macro de forma sistemática en todos los algoritmos (con un incremento sobresaliente de hasta $+6.3\%$ en Random Forest bajo SMOTETomek).
+- **Target Linealmente Separable (`tipo_violencia`)**: El balanceo es ineficiente y contraproducente. Cuando las clases ya están casi perfectamente delimitadas (F1-macro $\approx 98\%$), el sobremuestreo introduce puntos redundantes cerca de la frontera que diluyen la separación óptima, introduciendo ruido y degradando marginalmente la métrica.
+
+**Referencias**
+- Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: Synthetic Minority Over-sampling Technique. *Journal of Artificial Intelligence Research*, 16, 321-357.
+- Batista, G. E., Prati, R. C., & Monard, M. C. (2004). A study of the behavior of several methods for balancing machine learning datasets. *SIGKDD Explorations Newsletter*, 6(1), 20-29.
+
+---
+
+## 10) Bitacora de actualizacion
 
 - Fecha: 2026-05-17
   - Se crea el documento base consolidado.
   - Se incluyen metodos actuales: Cramer's V, MI, RF importance, Permutation, RFECV, MOES-RF.
-  - Se migra bibliografia: de lista final a referencias al pie de cada seccion.
+- Fecha: 2026-06-02
+  - Se incorporan secciones formales de MCA (Reducción Dimensional por Proyección) y SMOTE/SMOTETomek (Balanceo Sintético de Clases).
+  - Se documentan hallazgos cuantitativos del benchmark de las Fases 1 y 2.
 
-## 9) Decisiones metodologicas vigentes
+---
+
+## 11) Decisiones metodologicas vigentes
 
 - Se excluyen `*_orig` y `*_lbl` de modelado para evitar fuga de informacion y sesgo en ranking.
-- MOES-RF usa `min_features=8` para evitar soluciones triviales demasiado pequenas (por ejemplo, 3 variables) que no son estables metodologicamente.
-- Permutation Importance se mantiene como evidencia complementaria en el consenso, no como criterio unico, por sensibilidad a redundancia entre variables.
-- La estabilidad del ranking se evalua con multiples semillas (`42, 52, 62`) y consolidacion de resultados.
-- La comparacion hibrido vs MOES se reporta con interseccion/Jaccard y mejor punto Pareto por target.
-- La decision final de subset se valida con benchmark de entrenamiento (mismo K y mismo protocolo), no solo con Jaccard.
+- La estabilidad del ranking se evalua con multiples semillas (`42, 52, 62`) y consolidacion de resultados en promedio ± desviación estándar.
+- **Configuración Final de Tubería**:
+  * Para **`tipo_violencia`**, el modelo óptimo es **Top 30 Híbrido + Baseline (sin balanceo)** usando **XGBoost** ($F1 \approx 98.1\%$).
+  * Para **`nivel_riesgo_victima`**, el modelo óptimo es **Top 30 Híbrido + SMOTETomek** entrenado bajo **XGBoost** ($F1 \approx 58.5\%$).
+- **Uso de MCA**: Se establece a **MCA (10 componentes)** como el reductor óptimo estándar del proyecto si se requiere parsimonia extrema de 10 variables por encima del truncamiento directo univariante.
